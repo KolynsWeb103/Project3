@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react'
 import LocationsAPI from '../services/LocationsAPI'
-import bg from '../assets/mtn.png'
+import mtn from '../assets/mtn.png'
 import '../css/Locations.css'
 
 const Locations = () => {
@@ -65,7 +65,7 @@ const Locations = () => {
             >
                 <image 
                     id="background" 
-                    xlinkHref={bg}
+                    xlinkHref={mtn}
                     x="0"
                     y="10"
                     width="200"
