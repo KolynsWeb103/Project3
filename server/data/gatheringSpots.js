@@ -1,6 +1,6 @@
 const gatheringSpotData = [
   {
-    "id": "SnwyMntains_area1_pos1",
+    "id": "SnwyMntains_area1_pos1_low_rank",
     "area": 1,
     "position": 1,
     "type": "bugnet",
@@ -15,9 +15,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area1_pos2",
+    "id": "SnwyMntains_area1_pos1_high_rank",
     "area": 1,
-    "position": 2,
+    "position": 1,
     "type": "bugnet",
     "condition": "high-rank",
     "materials": [
@@ -31,9 +31,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area1_pos3",
+    "id": "SnwyMntains_area1_pos1_g_rank",
     "area": 1,
-    "position": 3,
+    "position": 1,
     "type": "bugnet",
     "condition": "g-rank",
     "materials": [
@@ -46,9 +46,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area1_pos4",
+    "id": "SnwyMntains_area1_pos1_training",
     "area": 1,
-    "position": 4,
+    "position": 1,
     "type": "bugnet",
     "condition": "training",
     "materials": [
@@ -56,9 +56,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area1_pos5",
+    "id": "SnwyMntains_area1_pos1_treasure",
     "area": 1,
-    "position": 5,
+    "position": 1,
     "type": "bugnet",
     "condition": "treasure",
     "materials": [
@@ -71,9 +71,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area1_pos6",
+    "id": "SnwyMntains_area1_pos2_low_rank",
     "area": 1,
-    "position": 6,
+    "position": 2,
     "type": "collecting",
     "condition": "low-rank",
     "materials": [
@@ -82,9 +82,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area1_pos7",
+    "id": "SnwyMntains_area1_pos2_high_rank",
     "area": 1,
-    "position": 7,
+    "position": 2,
     "type": "collecting",
     "condition": "high-rank",
     "materials": [
@@ -93,9 +93,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area1_pos8",
+    "id": "SnwyMntains_area1_pos2_g_rank",
     "area": 1,
-    "position": 8,
+    "position": 2,
     "type": "collecting",
     "condition": "g-rank",
     "materials": [
@@ -104,9 +104,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area1_pos9",
+    "id": "SnwyMntains_area1_pos2_training",
     "area": 1,
-    "position": 9,
+    "position": 2,
     "type": "collecting",
     "condition": "training",
     "materials": [
@@ -114,9 +114,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area1_pos10",
+    "id": "SnwyMntains_area1_pos2_training",
     "area": 1,
-    "position": 10,
+    "position": 2,
     "type": "collecting",
     "condition": "training",
     "materials": [
@@ -127,9 +127,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area1_pos11",
+    "id": "SnwyMntains_area1_pos3_low_rank",
     "area": 1,
-    "position": 11,
+    "position": 3,
     "type": "collecting",
     "condition": "low-rank",
     "materials": [
@@ -138,9 +138,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area1_pos12",
+    "id": "SnwyMntains_area1_pos3_high_rank",
     "area": 1,
-    "position": 12,
+    "position": 3,
     "type": "collecting",
     "condition": "high-rank",
     "materials": [
@@ -150,9 +150,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area1_pos13",
+    "id": "SnwyMntains_area1_pos3_g_rank",
     "area": 1,
-    "position": 13,
+    "position": 3,
     "type": "collecting",
     "condition": "g-rank",
     "materials": [
@@ -161,9 +161,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area1_pos14",
+    "id": "SnwyMntains_area1_pos3_training",
     "area": 1,
-    "position": 14,
+    "position": 3,
     "type": "collecting",
     "condition": "training",
     "materials": [
@@ -171,9 +171,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area1_pos15",
+    "id": "SnwyMntains_area1_pos3_treasure",
     "area": 1,
-    "position": 15,
+    "position": 3,
     "type": "collecting",
     "condition": "treasure",
     "materials": [
@@ -184,9 +184,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area1_pos16",
+    "id": "SnwyMntains_area1_pos4_low_rank",
     "area": 1,
-    "position": 16,
+    "position": 4,
     "type": "collecting",
     "condition": "low-rank",
     "materials": [
@@ -195,9 +195,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area1_pos17",
+    "id": "SnwyMntains_area1_pos4_high_rank",
     "area": 1,
-    "position": 17,
+    "position": 4,
     "type": "collecting",
     "condition": "high-rank",
     "materials": [
@@ -206,9 +206,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area1_pos18",
+    "id": "SnwyMntains_area1_pos4_g_rank",
     "area": 1,
-    "position": 18,
+    "position": 4,
     "type": "collecting",
     "condition": "g-rank",
     "materials": [
@@ -217,9 +217,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area1_pos19",
+    "id": "SnwyMntains_area1_pos4_training",
     "area": 1,
-    "position": 19,
+    "position": 4,
     "type": "collecting",
     "condition": "training",
     "materials": [
@@ -227,9 +227,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area1_pos20",
+    "id": "SnwyMntains_area1_pos4_treasure",
     "area": 1,
-    "position": 20,
+    "position": 4,
     "type": "collecting",
     "condition": "treasure",
     "materials": [
@@ -239,9 +239,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area1_pos21",
+    "id": "SnwyMntains_area1_pos5_low_rank",
     "area": 1,
-    "position": 21,
+    "position": 5,
     "type": "fishing",
     "condition": "low-rank",
     "materials": [
@@ -254,9 +254,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area1_pos22",
+    "id": "SnwyMntains_area1_pos5_high_rank",
     "area": 1,
-    "position": 22,
+    "position": 5,
     "type": "fishing",
     "condition": "high-rank",
     "materials": [
@@ -269,9 +269,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area1_pos23",
+    "id": "SnwyMntains_area1_pos5_g_rank",
     "area": 1,
-    "position": 23,
+    "position": 5,
     "type": "fishing",
     "condition": "g-rank",
     "materials": [
@@ -284,9 +284,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area1_pos24",
+    "id": "SnwyMntains_area1_pos5_training",
     "area": 1,
-    "position": 24,
+    "position": 5,
     "type": "fishing",
     "condition": "training",
     "materials": [
@@ -295,9 +295,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area1_pos25",
+    "id": "SnwyMntains_area1_pos5_treasure",
     "area": 1,
-    "position": 25,
+    "position": 5,
     "type": "fishing",
     "condition": "treasure",
     "materials": [
@@ -309,7 +309,7 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area2_pos1",
+    "id": "SnwyMntains_area2_pos1_low_rank",
     "area": 2,
     "position": 1,
     "type": "bugnet",
@@ -325,9 +325,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area2_pos2",
+    "id": "SnwyMntains_area2_pos1_high_rank",
     "area": 2,
-    "position": 2,
+    "position": 1,
     "type": "bugnet",
     "condition": "high-rank",
     "materials": [
@@ -341,9 +341,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area2_pos3",
+    "id": "SnwyMntains_area2_pos1_g_rank",
     "area": 2,
-    "position": 3,
+    "position": 1,
     "type": "bugnet",
     "condition": "g-rank",
     "materials": [
@@ -357,9 +357,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area2_pos4",
+    "id": "SnwyMntains_area2_pos1_training",
     "area": 2,
-    "position": 4,
+    "position": 1,
     "type": "bugnet",
     "condition": "training",
     "materials": [
@@ -367,9 +367,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area2_pos5",
+    "id": "SnwyMntains_area2_pos1_treasure",
     "area": 2,
-    "position": 5,
+    "position": 1,
     "type": "bugnet",
     "condition": "treasure",
     "materials": [
@@ -381,9 +381,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area2_pos6",
+    "id": "SnwyMntains_area2_pos2_low_rank",
     "area": 2,
-    "position": 6,
+    "position": 2,
     "type": "mining",
     "condition": "low-rank",
     "materials": [
@@ -394,9 +394,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area2_pos7",
+    "id": "SnwyMntains_area2_pos2_high_rank",
     "area": 2,
-    "position": 7,
+    "position": 2,
     "type": "mining",
     "condition": "high-rank",
     "materials": [
@@ -411,9 +411,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area2_pos8",
+    "id": "SnwyMntains_area2_pos2_g_rank",
     "area": 2,
-    "position": 8,
+    "position": 2,
     "type": "mining",
     "condition": "g-rank",
     "materials": [
@@ -425,9 +425,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area2_pos9",
+    "id": "SnwyMntains_area2_pos2_training",
     "area": 2,
-    "position": 9,
+    "position": 2,
     "type": "mining",
     "condition": "training",
     "materials": [
@@ -435,9 +435,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area2_pos10",
+    "id": "SnwyMntains_area2_pos2_treasure",
     "area": 2,
-    "position": 10,
+    "position": 2,
     "type": "mining",
     "condition": "treasure",
     "materials": [
@@ -447,9 +447,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area2_pos11",
+    "id": "SnwyMntains_area2_pos3_low_rank",
     "area": 2,
-    "position": 11,
+    "position": 3,
     "type": "collecting",
     "condition": "low-rank",
     "materials": [
@@ -459,9 +459,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area2_pos12",
+    "id": "SnwyMntains_area2_pos3_high_rank",
     "area": 2,
-    "position": 12,
+    "position": 3,
     "type": "collecting",
     "condition": "high-rank",
     "materials": [
@@ -471,9 +471,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area2_pos13",
+    "id": "SnwyMntains_area2_pos3_g_rank",
     "area": 2,
-    "position": 13,
+    "position": 3,
     "type": "collecting",
     "condition": "g-rank",
     "materials": [
@@ -482,9 +482,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area2_pos14",
+    "id": "SnwyMntains_area2_pos3_training",
     "area": 2,
-    "position": 14,
+    "position": 3,
     "type": "collecting",
     "condition": "training",
     "materials": [
@@ -492,9 +492,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area2_pos15",
+    "id": "SnwyMntains_area2_pos3_treasure",
     "area": 2,
-    "position": 15,
+    "position": 3,
     "type": "collecting",
     "condition": "treasure",
     "materials": [
@@ -505,9 +505,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area2_pos16",
+    "id": "SnwyMntains_area2_pos4_low_rank",
     "area": 2,
-    "position": 16,
+    "position": 4,
     "type": "collecting",
     "condition": "low-rank",
     "materials": [
@@ -517,9 +517,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area2_pos17",
+    "id": "SnwyMntains_area2_pos4_high_rank",
     "area": 2,
-    "position": 17,
+    "position": 4,
     "type": "collecting",
     "condition": "high-rank",
     "materials": [
@@ -529,9 +529,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area2_pos18",
+    "id": "SnwyMntains_area2_pos4_g_rank",
     "area": 2,
-    "position": 18,
+    "position": 4,
     "type": "collecting",
     "condition": "g-rank",
     "materials": [
@@ -541,9 +541,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area2_pos19",
+    "id": "SnwyMntains_area2_pos4_training",
     "area": 2,
-    "position": 19,
+    "position": 4,
     "type": "collecting",
     "condition": "training",
     "materials": [
@@ -551,9 +551,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area2_pos20",
+    "id": "SnwyMntains_area2_pos4_treasure",
     "area": 2,
-    "position": 20,
+    "position": 4,
     "type": "collecting",
     "condition": "treasure",
     "materials": [
@@ -566,7 +566,7 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area3_pos1",
+    "id": "SnwyMntains_area3_pos1_low_rank",
     "area": 3,
     "position": 1,
     "type": "mining",
@@ -580,9 +580,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area3_pos2",
+    "id": "SnwyMntains_area3_pos1_high_rank",
     "area": 3,
-    "position": 2,
+    "position": 1,
     "type": "mining",
     "condition": "high-rank",
     "materials": [
@@ -596,9 +596,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area3_pos3",
+    "id": "SnwyMntains_area3_pos1_g_rank",
     "area": 3,
-    "position": 3,
+    "position": 1,
     "type": "mining",
     "condition": "g-rank",
     "materials": [
@@ -612,9 +612,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area3_pos4",
+    "id": "SnwyMntains_area3_pos1_training",
     "area": 3,
-    "position": 4,
+    "position": 1,
     "type": "mining",
     "condition": "training",
     "materials": [
@@ -622,9 +622,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area3_pos5",
+    "id": "SnwyMntains_area3_pos1_treasure",
     "area": 3,
-    "position": 5,
+    "position": 1,
     "type": "mining",
     "condition": "treasure",
     "materials": [
@@ -636,9 +636,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area3_pos6",
+    "id": "SnwyMntains_area3_pos2_low_rank",
     "area": 3,
-    "position": 6,
+    "position": 2,
     "type": "collecting",
     "condition": "low-rank",
     "materials": [
@@ -648,9 +648,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area3_pos7",
+    "id": "SnwyMntains_area3_pos2_high_rank",
     "area": 3,
-    "position": 7,
+    "position": 2,
     "type": "collecting",
     "condition": "high-rank",
     "materials": [
@@ -660,9 +660,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area3_pos8",
+    "id": "SnwyMntains_area3_pos2_g_rank",
     "area": 3,
-    "position": 8,
+    "position": 2,
     "type": "collecting",
     "condition": "g-rank",
     "materials": [
@@ -671,9 +671,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area3_pos9",
+    "id": "SnwyMntains_area3_pos2_training",
     "area": 3,
-    "position": 9,
+    "position": 2,
     "type": "collecting",
     "condition": "training",
     "materials": [
@@ -681,9 +681,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area3_pos10",
+    "id": "SnwyMntains_area3_pos2_treasure",
     "area": 3,
-    "position": 10,
+    "position": 2,
     "type": "collecting",
     "condition": "treasure",
     "materials": [
@@ -696,9 +696,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area3_pos11",
+    "id": "SnwyMntains_area3_pos3_low_rank",
     "area": 3,
-    "position": 11,
+    "position": 3,
     "type": "collecting",
     "condition": "low-rank",
     "materials": [
@@ -707,9 +707,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area3_pos12",
+    "id": "SnwyMntains_area3_pos3_high_rank",
     "area": 3,
-    "position": 12,
+    "position": 3,
     "type": "collecting",
     "condition": "high-rank",
     "materials": [
@@ -718,9 +718,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area3_pos13",
+    "id": "SnwyMntains_area3_pos3_g_rank",
     "area": 3,
-    "position": 13,
+    "position": 3,
     "type": "collecting",
     "condition": "g-rank",
     "materials": [
@@ -729,9 +729,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area3_pos14",
+    "id": "SnwyMntains_area3_pos3_training",
     "area": 3,
-    "position": 14,
+    "position": 3,
     "type": "collecting",
     "condition": "training",
     "materials": [
@@ -739,9 +739,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area3_pos15",
+    "id": "SnwyMntains_area3_pos3_treasure",
     "area": 3,
-    "position": 15,
+    "position": 3,
     "type": "collecting",
     "condition": "treasure",
     "materials": [
@@ -756,9 +756,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area3_pos16",
+    "id": "SnwyMntains_area3_pos4_low_rank",
     "area": 3,
-    "position": 16,
+    "position": 4,
     "type": "collecting",
     "condition": "low-rank",
     "materials": [
@@ -768,9 +768,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area3_pos17",
+    "id": "SnwyMntains_area3_pos4_high_rank",
     "area": 3,
-    "position": 17,
+    "position": 4,
     "type": "collecting",
     "condition": "high-rank",
     "materials": [
@@ -780,9 +780,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area3_pos18",
+    "id": "SnwyMntains_area3_pos4_g_rank",
     "area": 3,
-    "position": 18,
+    "position": 4,
     "type": "collecting",
     "condition": "g-rank",
     "materials": [
@@ -791,9 +791,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area3_pos19",
+    "id": "SnwyMntains_area3_pos4_training",
     "area": 3,
-    "position": 19,
+    "position": 4,
     "type": "collecting",
     "condition": "training",
     "materials": [
@@ -801,9 +801,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area3_pos20",
+    "id": "SnwyMntains_area3_pos4_treasure",
     "area": 3,
-    "position": 20,
+    "position": 4,
     "type": "collecting",
     "condition": "treasure",
     "materials": [
@@ -812,7 +812,7 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area4_pos1",
+    "id": "SnwyMntains_area4_pos1_low_rank",
     "area": 4,
     "position": 1,
     "type": "collecting",
@@ -824,9 +824,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area4_pos2",
+    "id": "SnwyMntains_area4_pos1_high_rank",
     "area": 4,
-    "position": 2,
+    "position": 1,
     "type": "collecting",
     "condition": "high-rank",
     "materials": [
@@ -836,9 +836,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area4_pos3",
+    "id": "SnwyMntains_area4_pos1_g_rank",
     "area": 4,
-    "position": 3,
+    "position": 1,
     "type": "collecting",
     "condition": "g-rank",
     "materials": [
@@ -848,9 +848,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area4_pos4",
+    "id": "SnwyMntains_area4_pos1_training",
     "area": 4,
-    "position": 4,
+    "position": 1,
     "type": "collecting",
     "condition": "training",
     "materials": [
@@ -858,9 +858,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area4_pos5",
+    "id": "SnwyMntains_area4_pos1_treasure",
     "area": 4,
-    "position": 5,
+    "position": 1,
     "type": "collecting",
     "condition": "treasure",
     "materials": [
@@ -870,9 +870,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area4_pos6",
+    "id": "SnwyMntains_area4_pos2_low_rank",
     "area": 4,
-    "position": 6,
+    "position": 2,
     "type": "mining",
     "condition": "low-rank",
     "materials": [
@@ -885,9 +885,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area4_pos7",
+    "id": "SnwyMntains_area4_pos2_high_rank",
     "area": 4,
-    "position": 7,
+    "position": 2,
     "type": "mining",
     "condition": "high-rank",
     "materials": [
@@ -900,9 +900,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area4_pos8",
+    "id": "SnwyMntains_area4_pos2_g_rank",
     "area": 4,
-    "position": 8,
+    "position": 2,
     "type": "mining",
     "condition": "g-rank",
     "materials": [
@@ -917,9 +917,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area4_pos9",
+    "id": "SnwyMntains_area4_pos2_training",
     "area": 4,
-    "position": 9,
+    "position": 2,
     "type": "mining",
     "condition": "training",
     "materials": [
@@ -927,9 +927,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area4_pos10",
+    "id": "SnwyMntains_area4_pos2_treasure",
     "area": 4,
-    "position": 10,
+    "position": 2,
     "type": "mining",
     "condition": "treasure",
     "materials": [
@@ -941,9 +941,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area4_pos11",
+    "id": "SnwyMntains_area4_pos3_low_rank",
     "area": 4,
-    "position": 11,
+    "position": 3,
     "type": "mining",
     "condition": "low-rank",
     "materials": [
@@ -955,9 +955,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area4_pos12",
+    "id": "SnwyMntains_area4_pos3_high_rank",
     "area": 4,
-    "position": 12,
+    "position": 3,
     "type": "mining",
     "condition": "high-rank",
     "materials": [
@@ -971,9 +971,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area4_pos13",
+    "id": "SnwyMntains_area4_pos3_g_rank",
     "area": 4,
-    "position": 13,
+    "position": 3,
     "type": "mining",
     "condition": "g-rank",
     "materials": [
@@ -989,9 +989,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area4_pos14",
+    "id": "SnwyMntains_area4_pos3_training",
     "area": 4,
-    "position": 14,
+    "position": 3,
     "type": "mining",
     "condition": "training",
     "materials": [
@@ -1000,9 +1000,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area4_pos15",
+    "id": "SnwyMntains_area4_pos3_treasure",
     "area": 4,
-    "position": 15,
+    "position": 3,
     "type": "mining",
     "condition": "treasure",
     "materials": [
@@ -1012,9 +1012,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area4_pos16",
+    "id": "SnwyMntains_area4_pos4_low_rank",
     "area": 4,
-    "position": 16,
+    "position": 4,
     "type": "collecting",
     "condition": "low-rank",
     "materials": [
@@ -1023,9 +1023,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area4_pos17",
+    "id": "SnwyMntains_area4_pos4_high_rank",
     "area": 4,
-    "position": 17,
+    "position": 4,
     "type": "collecting",
     "condition": "high-rank",
     "materials": [
@@ -1037,9 +1037,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area4_pos18",
+    "id": "SnwyMntains_area4_pos4_g_rank",
     "area": 4,
-    "position": 18,
+    "position": 4,
     "type": "collecting",
     "condition": "g-rank",
     "materials": [
@@ -1052,9 +1052,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area4_pos19",
+    "id": "SnwyMntains_area4_pos4_training",
     "area": 4,
-    "position": 19,
+    "position": 4,
     "type": "collecting",
     "condition": "training",
     "materials": [
@@ -1062,9 +1062,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area4_pos20",
+    "id": "SnwyMntains_area4_pos4_treasure",
     "area": 4,
-    "position": 20,
+    "position": 4,
     "type": "collecting",
     "condition": "treasure",
     "materials": [
@@ -1074,7 +1074,7 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area5_pos1",
+    "id": "SnwyMntains_area5_pos1_low_rank",
     "area": 5,
     "position": 1,
     "type": "mining",
@@ -1088,9 +1088,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area5_pos2",
+    "id": "SnwyMntains_area5_pos1_high_rank",
     "area": 5,
-    "position": 2,
+    "position": 1,
     "type": "mining",
     "condition": "high-rank",
     "materials": [
@@ -1104,9 +1104,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area5_pos3",
+    "id": "SnwyMntains_area5_pos1_g_rank",
     "area": 5,
-    "position": 3,
+    "position": 1,
     "type": "mining",
     "condition": "g-rank",
     "materials": [
@@ -1120,9 +1120,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area5_pos4",
+    "id": "SnwyMntains_area5_pos1_training",
     "area": 5,
-    "position": 4,
+    "position": 1,
     "type": "mining",
     "condition": "training",
     "materials": [
@@ -1130,9 +1130,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area5_pos5",
+    "id": "SnwyMntains_area5_pos1_treasure",
     "area": 5,
-    "position": 5,
+    "position": 1,
     "type": "mining",
     "condition": "treasure",
     "materials": [
@@ -1144,9 +1144,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area5_pos6",
+    "id": "SnwyMntains_area5_pos2_low_rank",
     "area": 5,
-    "position": 6,
+    "position": 2,
     "type": "collecting",
     "condition": "low-rank",
     "materials": [
@@ -1157,9 +1157,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area5_pos7",
+    "id": "SnwyMntains_area5_pos2_high_rank",
     "area": 5,
-    "position": 7,
+    "position": 2,
     "type": "collecting",
     "condition": "high-rank",
     "materials": [
@@ -1170,9 +1170,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area5_pos8",
+    "id": "SnwyMntains_area5_pos2_g_rank",
     "area": 5,
-    "position": 8,
+    "position": 2,
     "type": "collecting",
     "condition": "g-rank",
     "materials": [
@@ -1183,9 +1183,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area5_pos9",
+    "id": "SnwyMntains_area5_pos2_training",
     "area": 5,
-    "position": 9,
+    "position": 2,
     "type": "collecting",
     "condition": "training",
     "materials": [
@@ -1193,9 +1193,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area5_pos10",
+    "id": "SnwyMntains_area5_pos2_treasure",
     "area": 5,
-    "position": 10,
+    "position": 2,
     "type": "collecting",
     "condition": "treasure",
     "materials": [
@@ -1209,9 +1209,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area5_pos11",
+    "id": "SnwyMntains_area5_pos3_low_rank",
     "area": 5,
-    "position": 11,
+    "position": 3,
     "type": "collecting",
     "condition": "low-rank",
     "materials": [
@@ -1221,9 +1221,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area5_pos12",
+    "id": "SnwyMntains_area5_pos3_high_rank",
     "area": 5,
-    "position": 12,
+    "position": 3,
     "type": "collecting",
     "condition": "high-rank",
     "materials": [
@@ -1233,9 +1233,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area5_pos13",
+    "id": "SnwyMntains_area5_pos3_g_rank",
     "area": 5,
-    "position": 13,
+    "position": 3,
     "type": "collecting",
     "condition": "g-rank",
     "materials": [
@@ -1245,9 +1245,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area5_pos14",
+    "id": "SnwyMntains_area5_pos3_training",
     "area": 5,
-    "position": 14,
+    "position": 3,
     "type": "collecting",
     "condition": "training",
     "materials": [
@@ -1255,9 +1255,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area5_pos15",
+    "id": "SnwyMntains_area5_pos3_treasure",
     "area": 5,
-    "position": 15,
+    "position": 3,
     "type": "collecting",
     "condition": "treasure",
     "materials": [
@@ -1268,9 +1268,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area5_pos16",
+    "id": "SnwyMntains_area5_pos4_low_rank",
     "area": 5,
-    "position": 16,
+    "position": 4,
     "type": "collecting",
     "condition": "low-rank",
     "materials": [
@@ -1279,9 +1279,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area5_pos17",
+    "id": "SnwyMntains_area5_pos4_high_rank",
     "area": 5,
-    "position": 17,
+    "position": 4,
     "type": "collecting",
     "condition": "high-rank",
     "materials": [
@@ -1290,9 +1290,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area5_pos18",
+    "id": "SnwyMntains_area5_pos4_g_rank",
     "area": 5,
-    "position": 18,
+    "position": 4,
     "type": "collecting",
     "condition": "g-rank",
     "materials": [
@@ -1301,9 +1301,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area5_pos19",
+    "id": "SnwyMntains_area5_pos4_training",
     "area": 5,
-    "position": 19,
+    "position": 4,
     "type": "collecting",
     "condition": "training",
     "materials": [
@@ -1311,9 +1311,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area5_pos20",
+    "id": "SnwyMntains_area5_pos4_treasure",
     "area": 5,
-    "position": 20,
+    "position": 4,
     "type": "collecting",
     "condition": "treasure",
     "materials": [
@@ -1327,7 +1327,7 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area6_pos1",
+    "id": "SnwyMntains_area6_pos1_low_rank",
     "area": 6,
     "position": 1,
     "type": "mining",
@@ -1341,9 +1341,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area6_pos2",
+    "id": "SnwyMntains_area6_pos1_high_rank",
     "area": 6,
-    "position": 2,
+    "position": 1,
     "type": "mining",
     "condition": "high-rank",
     "materials": [
@@ -1356,9 +1356,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area6_pos3",
+    "id": "SnwyMntains_area6_pos1_g_rank",
     "area": 6,
-    "position": 3,
+    "position": 1,
     "type": "mining",
     "condition": "g-rank",
     "materials": [
@@ -1371,9 +1371,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area6_pos4",
+    "id": "SnwyMntains_area6_pos1_training",
     "area": 6,
-    "position": 4,
+    "position": 1,
     "type": "mining",
     "condition": "training",
     "materials": [
@@ -1381,9 +1381,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area6_pos5",
+    "id": "SnwyMntains_area6_pos1_treasure",
     "area": 6,
-    "position": 5,
+    "position": 1,
     "type": "mining",
     "condition": "treasure",
     "materials": [
@@ -1395,9 +1395,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area6_pos6",
+    "id": "SnwyMntains_area6_pos2_low_rank",
     "area": 6,
-    "position": 6,
+    "position": 2,
     "type": "collecting",
     "condition": "low-rank",
     "materials": [
@@ -1406,9 +1406,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area6_pos7",
+    "id": "SnwyMntains_area6_pos2_high_rank",
     "area": 6,
-    "position": 7,
+    "position": 2,
     "type": "collecting",
     "condition": "high-rank",
     "materials": [
@@ -1418,9 +1418,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area6_pos8",
+    "id": "SnwyMntains_area6_pos2_g_rank",
     "area": 6,
-    "position": 8,
+    "position": 2,
     "type": "collecting",
     "condition": "g-rank",
     "materials": [
@@ -1429,9 +1429,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area6_pos9",
+    "id": "SnwyMntains_area6_pos2_training",
     "area": 6,
-    "position": 9,
+    "position": 2,
     "type": "collecting",
     "condition": "training",
     "materials": [
@@ -1439,9 +1439,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area6_pos10",
+    "id": "SnwyMntains_area6_pos2_treasure",
     "area": 6,
-    "position": 10,
+    "position": 2,
     "type": "collecting",
     "condition": "treasure",
     "materials": [
@@ -1454,9 +1454,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area6_pos11",
+    "id": "SnwyMntains_area6_pos3_low_rank",
     "area": 6,
-    "position": 11,
+    "position": 3,
     "type": "collecting",
     "condition": "low-rank",
     "materials": [
@@ -1466,9 +1466,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area6_pos12",
+    "id": "SnwyMntains_area6_pos3_high_rank",
     "area": 6,
-    "position": 12,
+    "position": 3,
     "type": "collecting",
     "condition": "high-rank",
     "materials": [
@@ -1478,9 +1478,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area6_pos13",
+    "id": "SnwyMntains_area6_pos3_g_rank",
     "area": 6,
-    "position": 13,
+    "position": 3,
     "type": "collecting",
     "condition": "g-rank",
     "materials": [
@@ -1489,9 +1489,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area6_pos14",
+    "id": "SnwyMntains_area6_pos3_training",
     "area": 6,
-    "position": 14,
+    "position": 3,
     "type": "collecting",
     "condition": "training",
     "materials": [
@@ -1499,9 +1499,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area6_pos15",
+    "id": "SnwyMntains_area6_pos3_treasure",
     "area": 6,
-    "position": 15,
+    "position": 3,
     "type": "collecting",
     "condition": "treasure",
     "materials": [
@@ -1512,9 +1512,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area6_pos16",
+    "id": "SnwyMntains_area6_pos4_low_rank",
     "area": 6,
-    "position": 16,
+    "position": 4,
     "type": "collecting",
     "condition": "low-rank",
     "materials": [
@@ -1523,9 +1523,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area6_pos17",
+    "id": "SnwyMntains_area6_pos4_high_rank",
     "area": 6,
-    "position": 17,
+    "position": 4,
     "type": "collecting",
     "condition": "high-rank",
     "materials": [
@@ -1534,9 +1534,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area6_pos18",
+    "id": "SnwyMntains_area6_pos4_g_rank",
     "area": 6,
-    "position": 18,
+    "position": 4,
     "type": "collecting",
     "condition": "g-rank",
     "materials": [
@@ -1545,9 +1545,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area6_pos19",
+    "id": "SnwyMntains_area6_pos4_training",
     "area": 6,
-    "position": 19,
+    "position": 4,
     "type": "collecting",
     "condition": "training",
     "materials": [
@@ -1555,9 +1555,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area6_pos20",
+    "id": "SnwyMntains_area6_pos4_treasure",
     "area": 6,
-    "position": 20,
+    "position": 4,
     "type": "collecting",
     "condition": "treasure",
     "materials": [
@@ -1565,7 +1565,7 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area7_pos1",
+    "id": "SnwyMntains_area7_pos1_low_rank",
     "area": 7,
     "position": 1,
     "type": "collecting",
@@ -1577,9 +1577,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area7_pos2",
+    "id": "SnwyMntains_area7_pos1_high_rank",
     "area": 7,
-    "position": 2,
+    "position": 1,
     "type": "collecting",
     "condition": "high-rank",
     "materials": [
@@ -1589,9 +1589,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area7_pos3",
+    "id": "SnwyMntains_area7_pos1_g_rank",
     "area": 7,
-    "position": 3,
+    "position": 1,
     "type": "collecting",
     "condition": "g-rank",
     "materials": [
@@ -1601,9 +1601,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area7_pos4",
+    "id": "SnwyMntains_area7_pos1_training",
     "area": 7,
-    "position": 4,
+    "position": 1,
     "type": "collecting",
     "condition": "training",
     "materials": [
@@ -1611,9 +1611,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area7_pos5",
+    "id": "SnwyMntains_area7_pos1_treasure",
     "area": 7,
-    "position": 5,
+    "position": 1,
     "type": "collecting",
     "condition": "treasure",
     "materials": [
@@ -1625,9 +1625,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area7_pos6",
+    "id": "SnwyMntains_area7_pos2_low_rank",
     "area": 7,
-    "position": 6,
+    "position": 2,
     "type": "collecting",
     "condition": "low-rank",
     "materials": [
@@ -1637,9 +1637,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area7_pos7",
+    "id": "SnwyMntains_area7_pos2_high_rank",
     "area": 7,
-    "position": 7,
+    "position": 2,
     "type": "collecting",
     "condition": "high-rank",
     "materials": [
@@ -1649,9 +1649,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area7_pos8",
+    "id": "SnwyMntains_area7_pos2_g_rank",
     "area": 7,
-    "position": 8,
+    "position": 2,
     "type": "collecting",
     "condition": "g-rank",
     "materials": [
@@ -1661,9 +1661,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area7_pos9",
+    "id": "SnwyMntains_area7_pos2_training",
     "area": 7,
-    "position": 9,
+    "position": 2,
     "type": "collecting",
     "condition": "training",
     "materials": [
@@ -1671,9 +1671,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area7_pos10",
+    "id": "SnwyMntains_area7_pos2_treasure",
     "area": 7,
-    "position": 10,
+    "position": 2,
     "type": "collecting",
     "condition": "treasure",
     "materials": [
@@ -1684,9 +1684,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area7_pos11",
+    "id": "SnwyMntains_area7_pos3_low_rank",
     "area": 7,
-    "position": 11,
+    "position": 3,
     "type": "collecting",
     "condition": "low-rank",
     "materials": [
@@ -1695,9 +1695,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area7_pos12",
+    "id": "SnwyMntains_area7_pos3_high_rank",
     "area": 7,
-    "position": 12,
+    "position": 3,
     "type": "collecting",
     "condition": "high-rank",
     "materials": [
@@ -1706,9 +1706,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area7_pos13",
+    "id": "SnwyMntains_area7_pos3_g_rank",
     "area": 7,
-    "position": 13,
+    "position": 3,
     "type": "collecting",
     "condition": "g-rank",
     "materials": [
@@ -1717,9 +1717,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area7_pos14",
+    "id": "SnwyMntains_area7_pos3_training",
     "area": 7,
-    "position": 14,
+    "position": 3,
     "type": "collecting",
     "condition": "training",
     "materials": [
@@ -1727,9 +1727,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area7_pos15",
+    "id": "SnwyMntains_area7_pos3_treasure",
     "area": 7,
-    "position": 15,
+    "position": 3,
     "type": "collecting",
     "condition": "treasure",
     "materials": [
@@ -1744,9 +1744,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area7_pos16",
+    "id": "SnwyMntains_area7_pos4_low_rank",
     "area": 7,
-    "position": 16,
+    "position": 4,
     "type": "collecting",
     "condition": "low-rank",
     "materials": [
@@ -1756,9 +1756,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area7_pos17",
+    "id": "SnwyMntains_area7_pos4_high_rank",
     "area": 7,
-    "position": 17,
+    "position": 4,
     "type": "collecting",
     "condition": "high-rank",
     "materials": [
@@ -1768,9 +1768,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area7_pos18",
+    "id": "SnwyMntains_area7_pos4_g_rank",
     "area": 7,
-    "position": 18,
+    "position": 4,
     "type": "collecting",
     "condition": "g-rank",
     "materials": [
@@ -1780,9 +1780,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area7_pos19",
+    "id": "SnwyMntains_area7_pos4_training",
     "area": 7,
-    "position": 19,
+    "position": 4,
     "type": "collecting",
     "condition": "training",
     "materials": [
@@ -1790,9 +1790,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area7_pos20",
+    "id": "SnwyMntains_area7_pos4_training",
     "area": 7,
-    "position": 20,
+    "position": 4,
     "type": "collecting",
     "condition": "training",
     "materials": [
@@ -1804,7 +1804,7 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area8_pos1",
+    "id": "SnwyMntains_area8_pos1_low_rank",
     "area": 8,
     "position": 1,
     "type": "collecting",
@@ -1816,9 +1816,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area8_pos2",
+    "id": "SnwyMntains_area8_pos1_high_rank",
     "area": 8,
-    "position": 2,
+    "position": 1,
     "type": "collecting",
     "condition": "high-rank",
     "materials": [
@@ -1828,9 +1828,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area8_pos3",
+    "id": "SnwyMntains_area8_pos1_g_rank",
     "area": 8,
-    "position": 3,
+    "position": 1,
     "type": "collecting",
     "condition": "g-rank",
     "materials": [
@@ -1839,9 +1839,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area8_pos4",
+    "id": "SnwyMntains_area8_pos1_training",
     "area": 8,
-    "position": 4,
+    "position": 1,
     "type": "collecting",
     "condition": "training",
     "materials": [
@@ -1849,9 +1849,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area8_pos5",
+    "id": "SnwyMntains_area8_pos1_treasure",
     "area": 8,
-    "position": 5,
+    "position": 1,
     "type": "collecting",
     "condition": "treasure",
     "materials": [
@@ -1862,9 +1862,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area8_pos6",
+    "id": "SnwyMntains_area8_pos2_low_rank",
     "area": 8,
-    "position": 6,
+    "position": 2,
     "type": "collecting",
     "condition": "low-rank",
     "materials": [
@@ -1874,9 +1874,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area8_pos7",
+    "id": "SnwyMntains_area8_pos2_high_rank",
     "area": 8,
-    "position": 7,
+    "position": 2,
     "type": "collecting",
     "condition": "high-rank",
     "materials": [
@@ -1885,9 +1885,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area8_pos8",
+    "id": "SnwyMntains_area8_pos2_g_rank",
     "area": 8,
-    "position": 8,
+    "position": 2,
     "type": "collecting",
     "condition": "g-rank",
     "materials": [
@@ -1897,9 +1897,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area8_pos9",
+    "id": "SnwyMntains_area8_pos2_training",
     "area": 8,
-    "position": 9,
+    "position": 2,
     "type": "collecting",
     "condition": "training",
     "materials": [
@@ -1907,9 +1907,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area8_pos10",
+    "id": "SnwyMntains_area8_pos2_treasure",
     "area": 8,
-    "position": 10,
+    "position": 2,
     "type": "collecting",
     "condition": "treasure",
     "materials": [
@@ -1920,9 +1920,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area8_pos11",
+    "id": "SnwyMntains_area8_pos3_low_rank",
     "area": 8,
-    "position": 11,
+    "position": 3,
     "type": "mining",
     "condition": "low-rank",
     "materials": [
@@ -1935,9 +1935,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area8_pos12",
+    "id": "SnwyMntains_area8_pos3_high_rank",
     "area": 8,
-    "position": 12,
+    "position": 3,
     "type": "mining",
     "condition": "high-rank",
     "materials": [
@@ -1952,9 +1952,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area8_pos13",
+    "id": "SnwyMntains_area8_pos3_g_rank",
     "area": 8,
-    "position": 13,
+    "position": 3,
     "type": "mining",
     "condition": "g-rank",
     "materials": [
@@ -1969,9 +1969,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area8_pos14",
+    "id": "SnwyMntains_area8_pos3_training",
     "area": 8,
-    "position": 14,
+    "position": 3,
     "type": "mining",
     "condition": "training",
     "materials": [
@@ -1979,9 +1979,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area8_pos15",
+    "id": "SnwyMntains_area8_pos3_treasure",
     "area": 8,
-    "position": 15,
+    "position": 3,
     "type": "mining",
     "condition": "treasure",
     "materials": [
@@ -1992,9 +1992,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area8_pos16",
+    "id": "SnwyMntains_area8_pos4_low_rank",
     "area": 8,
-    "position": 16,
+    "position": 4,
     "type": "collecting",
     "condition": "low-rank",
     "materials": [
@@ -2004,9 +2004,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area8_pos17",
+    "id": "SnwyMntains_area8_pos4_high_rank",
     "area": 8,
-    "position": 17,
+    "position": 4,
     "type": "collecting",
     "condition": "high-rank",
     "materials": [
@@ -2016,9 +2016,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area8_pos18",
+    "id": "SnwyMntains_area8_pos4_g_rank",
     "area": 8,
-    "position": 18,
+    "position": 4,
     "type": "collecting",
     "condition": "g-rank",
     "materials": [
@@ -2028,9 +2028,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area8_pos19",
+    "id": "SnwyMntains_area8_pos4_training",
     "area": 8,
-    "position": 19,
+    "position": 4,
     "type": "collecting",
     "condition": "training",
     "materials": [
@@ -2038,9 +2038,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area8_pos20",
+    "id": "SnwyMntains_area8_pos4_treasure",
     "area": 8,
-    "position": 20,
+    "position": 4,
     "type": "collecting",
     "condition": "treasure",
     "materials": [
@@ -2051,7 +2051,7 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area9_pos1",
+    "id": "SnwyMntains_area9_pos1_high_rank",
     "area": 9,
     "position": 1,
     "type": "collecting",
@@ -2064,9 +2064,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area9_pos2",
+    "id": "SnwyMntains_area9_pos1_g_rank",
     "area": 9,
-    "position": 2,
+    "position": 1,
     "type": "collecting",
     "condition": "g-rank",
     "materials": [
@@ -2078,9 +2078,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area9_pos3",
+    "id": "SnwyMntains_area9_pos2_high_rank",
     "area": 9,
-    "position": 3,
+    "position": 2,
     "type": "bugnet",
     "condition": "high-rank",
     "materials": [
@@ -2091,9 +2091,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area9_pos4",
+    "id": "SnwyMntains_area9_pos2_g_rank",
     "area": 9,
-    "position": 4,
+    "position": 2,
     "type": "bugnet",
     "condition": "g-rank",
     "materials": [
@@ -2104,9 +2104,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area9_pos5",
+    "id": "SnwyMntains_area9_pos3_high_rank",
     "area": 9,
-    "position": 5,
+    "position": 3,
     "type": "bugnet",
     "condition": "high-rank",
     "materials": [
@@ -2118,9 +2118,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area9_pos6",
+    "id": "SnwyMntains_area9_pos3_g_rank",
     "area": 9,
-    "position": 6,
+    "position": 3,
     "type": "bugnet",
     "condition": "g-rank",
     "materials": [
@@ -2130,9 +2130,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area9_pos7",
+    "id": "SnwyMntains_area9_pos4_high_rank",
     "area": 9,
-    "position": 7,
+    "position": 4,
     "type": "bugnet",
     "condition": "high-rank",
     "materials": [
@@ -2144,9 +2144,9 @@ const gatheringSpotData = [
     ]
   },
   {
-    "id": "SnwyMntains_area9_pos8",
+    "id": "SnwyMntains_area9_pos4_g_rank",
     "area": 9,
-    "position": 8,
+    "position": 4,
     "type": "bugnet",
     "condition": "g-rank",
     "materials": [

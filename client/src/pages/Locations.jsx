@@ -24,11 +24,15 @@ const Locations = () => {
 
     const getAreaLabel = (areaNumber) => {
         const spotsInArea = gatheringSpots.filter(spot => spot.area === areaNumber)
+        const uniquePositionCount = new Set(
+            spotsInArea.map(spot => spot.position)
+        ).size
+        
         if (areaNumber === 9)
         {
-            return `Hidden Area (${spotsInArea.length} spots)`
+            return `Hidden Area (${uniquePositionCount} spots)`
         }
-        return `Area ${areaNumber} (${spotsInArea.length} spots)`
+        return `Area ${areaNumber} (${uniquePositionCount} spots)`
     }
 
     const handleAreaHover = (areaNumber, x, y) => {
