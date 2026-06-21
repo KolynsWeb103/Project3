@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;700;800;900&display=swap');
 
 #root {
-    background: url('./assets/unitygrid.jpg');
+    background: url('./assets/bg.png');
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
@@ -75,4 +75,11 @@
 
 #root select {
     width: 400px;
+}
+
+#root h1 {
+  font-family: Rock Salt, cursive;
+  font-size: 1.5em;
+  font-weight: bold;
+  text-shadow: 3px 3px 4px black;
 }

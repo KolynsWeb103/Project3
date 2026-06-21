@@ -21,52 +21,42 @@ svg polygon:hover {
     fill: rgba(55, 216, 232, 0.2);
 }
 
-.venue1-button-overlay {
-    opacity: 0;
-    z-index: 10;
-    position: relative;
-    top: 15%;
-    left: -5%;
-}
-
-.venue2-button-overlay {
-    opacity: 0;
-    z-index: 10;
-}
-
-.venue3-button-overlay {
-    opacity: 0;
-    z-index: 10;
-    position: relative;
-    left: 30%;
-}
-
-.venue4-button-overlay {
-    opacity: 0;
-    z-index: 10;
-    position: relative;
-    top: 20%;
-    left: -5%;
-}
-
-.venue1-button-overlay button,
-.venue2-button-overlay button,
-.venue3-button-overlay button,
-.venue4-button-overlay button {
-    width: 200px;
-    text-transform: uppercase;
-    font-weight: 700;
-}
-
 .clickable-area {
-    fill: rgba(255, 255, 0, 0.25);
-    stroke: yellow;
-    stroke-width: 2;
+    /* fill: rgba(255, 255, 0, 0.25); */
+    /* stroke: yellow; */
+    /* stroke-width: 1; */
     cursor: pointer;
 }
 
 .clickable-area:hover {
-    fill: rgba(255, 255, 0, 0.45);
-    stroke: white;
-    stroke-width: 3;
+    /* fill: rgba(255, 255, 0, 0.45); */
+    /* stroke: white; */
+    /* stroke-width: 3; */
+    cursor: pointer;
+}
+
+.area-label {
+  position: absolute;
+  top: 120px;
+  right: 40px;
+  padding: 12px 18px;
+  background: rgba(0, 0, 0, 0.75);
+  color: white;
+  border: 2px solid white;
+  border-radius: 8px;
+  font-weight: bold;
+  z-index: 20;
+}
+
+.svg-area-label rect {
+  fill: rgba(0, 0, 0, 0.75);
+  stroke: white;
+  stroke-width: 2;
+}
+
+.svg-area-label text {
+  fill: white;
+  font-size: 24px;
+  font-weight: 800;
+  pointer-events: none;
 }
