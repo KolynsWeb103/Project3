@@ -49,7 +49,7 @@ const Locations = () => {
                 xmlnsXlink="http://www.w3.org/1999/xlink" 
                 x="0px" 
                 y="0px" 
-                viewBox="0 0 1000.32 700" 
+                viewBox="0 0 1200.32 700" 
                 xmlSpace="preserve"
                 onClick={(e) => {
                     const svg = e.currentTarget

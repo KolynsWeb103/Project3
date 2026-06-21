@@ -30,7 +30,7 @@ const LocationEvents = ({index}) => {
                             time={event.time}
                             image={event.image}
                         />
-                    ) : <h2><i className="fa-regular fa-calendar-xmark fa-shake"></i> {'No events scheduled at this location yet!'}</h2>
+                    ) : <h2><i className="fa-regular fa-calendar-xmark fa-shake"></i> {'No gathering spot found on this area!!'}</h2>
                 }
             </main>
         </div>
