@@ -4,7 +4,7 @@ import favicon from 'serve-favicon'
 import dotenv from 'dotenv'
 
 // import the router from your routes file
-import gatheringSpotRouter from './routes/gatheringSpots.js'
+import gatheringSpotsRouter from './routes/gatheringSpots.js'
 
 dotenv.config()
 

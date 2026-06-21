@@ -57,3 +57,16 @@ svg polygon:hover {
     text-transform: uppercase;
     font-weight: 700;
 }
+
+.clickable-area {
+    fill: rgba(255, 255, 0, 0.25);
+    stroke: yellow;
+    stroke-width: 2;
+    cursor: pointer;
+}
+
+.clickable-area:hover {
+    fill: rgba(255, 255, 0, 0.45);
+    stroke: white;
+    stroke-width: 3;
+}
