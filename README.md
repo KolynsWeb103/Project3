@@ -47,7 +47,7 @@ C:\ffmpeg\bin\ffmpeg.exe -i input.mp4 -i palette.png -filter_complex "fps=12,sca
 
 ## Notes
 
-Describe any challenges encountered while building the app or any additional context you'd like to add.
+In this project, 'Area' means 'Location'. 'GatheringSpot' means 'Event'.
 
 ## License
 
