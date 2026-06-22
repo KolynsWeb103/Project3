@@ -1,0 +1,5038 @@
+[
+  {
+    "name": "Book of Combos 1",
+    "icon": "book"
+  },
+  {
+    "name": "Book of Combos 2",
+    "icon": "book"
+  },
+  {
+    "name": "Book of Combos 3",
+    "icon": "book"
+  },
+  {
+    "name": "Book of Combos 4",
+    "icon": "book"
+  },
+  {
+    "name": "Book of Combos 5",
+    "icon": "book"
+  },
+  {
+    "name": "Alchemy Guide",
+    "icon": "book"
+  },
+  {
+    "name": "Potion",
+    "icon": "bottle"
+  },
+  {
+    "name": "Mega Potion",
+    "icon": "bottle"
+  },
+  {
+    "name": "Nutrients",
+    "icon": "bottle"
+  },
+  {
+    "name": "Mega Nutrients",
+    "icon": "bottle"
+  },
+  {
+    "name": "Antidote",
+    "icon": "bottle"
+  },
+  {
+    "name": "Immunizer",
+    "icon": "bottle"
+  },
+  {
+    "name": "Power Juice",
+    "icon": "bottle"
+  },
+  {
+    "name": "Mega Juice",
+    "icon": "bottle"
+  },
+  {
+    "name": "Demondrug",
+    "icon": "bottle"
+  },
+  {
+    "name": "Mega Demondrug",
+    "icon": "bottle"
+  },
+  {
+    "name": "Power Pill",
+    "icon": "bag"
+  },
+  {
+    "name": "Armorskin",
+    "icon": "bottle"
+  },
+  {
+    "name": "Mega Armorskin",
+    "icon": "bottle"
+  },
+  {
+    "name": "Armor Pill",
+    "icon": "bag"
+  },
+  {
+    "name": "Cool Drink",
+    "icon": "bottle"
+  },
+  {
+    "name": "Hot Drink",
+    "icon": "bottle"
+  },
+  {
+    "name": "Thawing Agent",
+    "icon": "bag"
+  },
+  {
+    "name": "Psychoserum",
+    "icon": "bottle"
+  },
+  {
+    "name": "Monster Fluid",
+    "icon": "bottle"
+  },
+  {
+    "name": "Monster Broth",
+    "icon": "bottle"
+  },
+  {
+    "name": "Monster Essence",
+    "icon": "bottle"
+  },
+  {
+    "name": "Thunderbug Juice",
+    "icon": "bottle"
+  },
+  {
+    "name": "Thunderbug Jelly",
+    "icon": "bottle"
+  },
+  {
+    "name": "Herbal Medicine",
+    "icon": "bag"
+  },
+  {
+    "name": "Max Potion",
+    "icon": "bag"
+  },
+  {
+    "name": "Ancient Potion",
+    "icon": "bag"
+  },
+  {
+    "name": "Catalyst",
+    "icon": "bag"
+  },
+  {
+    "name": "Energy Drink",
+    "icon": "bottle"
+  },
+  {
+    "name": "Gunpowder",
+    "icon": "bag"
+  },
+  {
+    "name": "Lifecrystals",
+    "icon": "bag"
+  },
+  {
+    "name": "Lifepowder",
+    "icon": "bag"
+  },
+  {
+    "name": "Powercharm",
+    "icon": "bag"
+  },
+  {
+    "name": "Powertalon",
+    "icon": "fang"
+  },
+  {
+    "name": "Armorcharm",
+    "icon": "bag"
+  },
+  {
+    "name": "Armortalon",
+    "icon": "fang"
+  },
+  {
+    "name": "Tranquilizer",
+    "icon": "bottle"
+  },
+  {
+    "name": "Raw Meat",
+    "icon": "meat"
+  },
+  {
+    "name": "Poisoned Meat",
+    "icon": "meat"
+  },
+  {
+    "name": "Tainted Meat",
+    "icon": "meat"
+  },
+  {
+    "name": "Drugged Meat",
+    "icon": "meat"
+  },
+  {
+    "name": "Rare Steak",
+    "icon": "meat"
+  },
+  {
+    "name": "Well-Done Steak",
+    "icon": "meat"
+  },
+  {
+    "name": "Gourmet Steak",
+    "icon": "meat"
+  },
+  {
+    "name": "Burnt Meat",
+    "icon": "meat"
+  },
+  {
+    "name": "Hot Meat",
+    "icon": "meat"
+  },
+  {
+    "name": "Cold Meat",
+    "icon": "meat"
+  },
+  {
+    "name": "Rare Fish",
+    "icon": "fish"
+  },
+  {
+    "name": "Gourmet Fish",
+    "icon": "fish"
+  },
+  {
+    "name": "Gourmet Fish+",
+    "icon": "fish"
+  },
+  {
+    "name": "Burnt Fish",
+    "icon": "fish"
+  },
+  {
+    "name": "Boomerang",
+    "icon": "boomerang"
+  },
+  {
+    "name": "Throwing Knife",
+    "icon": "knife"
+  },
+  {
+    "name": "Poison Thrw Knf",
+    "icon": "knife"
+  },
+  {
+    "name": "Sleeping Thr Knf",
+    "icon": "knife"
+  },
+  {
+    "name": "Paralyze Thr Knf",
+    "icon": "knife"
+  },
+  {
+    "name": "Tranq Thrwng Knf",
+    "icon": "knife"
+  },
+  {
+    "name": "Bomb Material",
+    "icon": "ball"
+  },
+  {
+    "name": "Paintball",
+    "icon": "ball"
+  },
+  {
+    "name": "Flash Bomb",
+    "icon": "ball"
+  },
+  {
+    "name": "Sonic Bomb",
+    "icon": "ball"
+  },
+  {
+    "name": "Dung",
+    "icon": "dung"
+  },
+  {
+    "name": "Wyvern Droppings",
+    "icon": "dung"
+  },
+  {
+    "name": "Dung Bomb",
+    "icon": "dung"
+  },
+  {
+    "name": "Smoke Bomb",
+    "icon": "smoke"
+  },
+  {
+    "name": "Poison Smoke Bmb",
+    "icon": "smoke"
+  },
+  {
+    "name": "Farcaster",
+    "icon": "smoke"
+  },
+  {
+    "name": "Deodorant",
+    "icon": "smoke"
+  },
+  {
+    "name": "Tranq Bomb",
+    "icon": "ball"
+  },
+  {
+    "name": "Spiderweb",
+    "icon": "web"
+  },
+  {
+    "name": "Net",
+    "icon": "web"
+  },
+  {
+    "name": "Trap Tool",
+    "icon": "tool"
+  },
+  {
+    "name": "Pitfall Trap",
+    "icon": "trap"
+  },
+  {
+    "name": "Shock Trap",
+    "icon": "trap"
+  },
+  {
+    "name": "Lightning Rod",
+    "icon": "trap"
+  },
+  {
+    "name": "Barrel Lid",
+    "icon": "barrel"
+  },
+  {
+    "name": "Small Barrel",
+    "icon": "barrel"
+  },
+  {
+    "name": "Large Barrel",
+    "icon": "barrel"
+  },
+  {
+    "name": "Sm Barrel-Bomb",
+    "icon": "bomb"
+  },
+  {
+    "name": "Sm Barrel-Bomb+",
+    "icon": "bomb"
+  },
+  {
+    "name": "Lg Barrel-Bomb",
+    "icon": "bomb"
+  },
+  {
+    "name": "Lg Barrel-Bomb+",
+    "icon": "bomb"
+  },
+  {
+    "name": "Bounce Bomb",
+    "icon": "bomb"
+  },
+  {
+    "name": "Bounce Bomb+",
+    "icon": "bomb"
+  },
+  {
+    "name": "Anti-Dragon Bomb",
+    "icon": "bomb"
+  },
+  {
+    "name": "Huskberry",
+    "icon": "husk"
+  },
+  {
+    "name": "Sm Bone Husk",
+    "icon": "husk"
+  },
+  {
+    "name": "Lg Bone Husk",
+    "icon": "husk"
+  },
+  {
+    "name": "Normal S Lv1",
+    "icon": "shell"
+  },
+  {
+    "name": "Normal S Lv2",
+    "icon": "shell"
+  },
+  {
+    "name": "Normal S Lv3",
+    "icon": "shell"
+  },
+  {
+    "name": "Pierce S Lv1",
+    "icon": "shell"
+  },
+  {
+    "name": "Pierce S Lv2",
+    "icon": "shell"
+  },
+  {
+    "name": "Pierce S Lv3",
+    "icon": "shell"
+  },
+  {
+    "name": "Pellet S Lv1",
+    "icon": "shell"
+  },
+  {
+    "name": "Pellet S Lv2",
+    "icon": "shell"
+  },
+  {
+    "name": "Pellet S Lv3",
+    "icon": "shell"
+  },
+  {
+    "name": "Crag S Lv1",
+    "icon": "shell"
+  },
+  {
+    "name": "Crag S Lv2",
+    "icon": "shell"
+  },
+  {
+    "name": "Crag S Lv3",
+    "icon": "shell"
+  },
+  {
+    "name": "Clust S Lv1",
+    "icon": "shell"
+  },
+  {
+    "name": "Clust S Lv2",
+    "icon": "shell"
+  },
+  {
+    "name": "Clust S Lv3",
+    "icon": "shell"
+  },
+  {
+    "name": "Flaming S",
+    "icon": "shell"
+  },
+  {
+    "name": "Water S",
+    "icon": "shell"
+  },
+  {
+    "name": "Thunder S",
+    "icon": "shell"
+  },
+  {
+    "name": "Freeze S",
+    "icon": "shell"
+  },
+  {
+    "name": "Dragon S",
+    "icon": "shell"
+  },
+  {
+    "name": "Recov S Lv1",
+    "icon": "shell"
+  },
+  {
+    "name": "Recov S Lv2",
+    "icon": "shell"
+  },
+  {
+    "name": "Poison S Lv1",
+    "icon": "shell"
+  },
+  {
+    "name": "Poison S Lv2",
+    "icon": "shell"
+  },
+  {
+    "name": "Para S Lv1",
+    "icon": "shell"
+  },
+  {
+    "name": "Para S Lv2",
+    "icon": "shell"
+  },
+  {
+    "name": "Sleep S Lv1",
+    "icon": "shell"
+  },
+  {
+    "name": "Sleep S Lv2",
+    "icon": "shell"
+  },
+  {
+    "name": "Tranq S",
+    "icon": "shell"
+  },
+  {
+    "name": "Paint S",
+    "icon": "shell"
+  },
+  {
+    "name": "Demon S",
+    "icon": "shell"
+  },
+  {
+    "name": "Armor S",
+    "icon": "shell"
+  },
+  {
+    "name": "Empty Bottle",
+    "icon": "empty-bottle"
+  },
+  {
+    "name": "Power Coating",
+    "icon": "bottle"
+  },
+  {
+    "name": "Poison Coating",
+    "icon": "bottle"
+  },
+  {
+    "name": "ParalysisCoating",
+    "icon": "bottle"
+  },
+  {
+    "name": "Sleep Coating",
+    "icon": "bottle"
+  },
+  {
+    "name": "CloseRngCoating",
+    "icon": "bottle"
+  },
+  {
+    "name": "Paint Coating",
+    "icon": "bottle"
+  },
+  {
+    "name": "Cricket",
+    "icon": "bait"
+  },
+  {
+    "name": "Worm",
+    "icon": "bait"
+  },
+  {
+    "name": "Firefly",
+    "icon": "bait"
+  },
+  {
+    "name": "Frog",
+    "icon": "bait"
+  },
+  {
+    "name": "Tuna Bait",
+    "icon": "bait"
+  },
+  {
+    "name": "Arrowana Bait",
+    "icon": "bait"
+  },
+  {
+    "name": "Goldenfish Bait",
+    "icon": "bait"
+  },
+  {
+    "name": "Mega Fishing Fly",
+    "icon": "bait"
+  },
+  {
+    "name": "Old Pickaxe",
+    "icon": "pickaxe"
+  },
+  {
+    "name": "Iron Pickaxe",
+    "icon": "pickaxe"
+  },
+  {
+    "name": "Mega Pickaxe",
+    "icon": "pickaxe"
+  },
+  {
+    "name": "Expand Pickaxe",
+    "icon": "pickaxe"
+  },
+  {
+    "name": "Old Bugnet",
+    "icon": "bugnet"
+  },
+  {
+    "name": "Bugnet",
+    "icon": "bugnet"
+  },
+  {
+    "name": "Mega Bugnet",
+    "icon": "bugnet"
+  },
+  {
+    "name": "BBQ Spit",
+    "icon": "bbq-spit"
+  },
+  {
+    "name": "Gourmet BBQ Spit",
+    "icon": "bbq-spit"
+  },
+  {
+    "name": "Whetstone",
+    "icon": "whetstone"
+  },
+  {
+    "name": "Binoculars",
+    "icon": "binoculars"
+  },
+  {
+    "name": "Garbage",
+    "icon": "unknown"
+  },
+  {
+    "name": "Flute",
+    "icon": "flute"
+  },
+  {
+    "name": "Health Flute",
+    "icon": "flute"
+  },
+  {
+    "name": "Antidote Flute",
+    "icon": "flute"
+  },
+  {
+    "name": "Demon Flute",
+    "icon": "flute"
+  },
+  {
+    "name": "Armor Flute",
+    "icon": "flute"
+  },
+  {
+    "name": "Honey",
+    "icon": "honey"
+  },
+  {
+    "name": "Sunset Herb",
+    "icon": "herb"
+  },
+  {
+    "name": "Herb",
+    "icon": "herb"
+  },
+  {
+    "name": "Antidote Herb",
+    "icon": "herb"
+  },
+  {
+    "name": "Fire Herb",
+    "icon": "herb"
+  },
+  {
+    "name": "Ivy",
+    "icon": "herb"
+  },
+  {
+    "name": "Sleep Herb",
+    "icon": "herb"
+  },
+  {
+    "name": "Sap Plant",
+    "icon": "herb"
+  },
+  {
+    "name": "Felvine",
+    "icon": "herb"
+  },
+  {
+    "name": "Cactus Flower",
+    "icon": "herb"
+  },
+  {
+    "name": "Hot Pepper",
+    "icon": "herb"
+  },
+  {
+    "name": "Dosbiscus",
+    "icon": "herb"
+  },
+  {
+    "name": "Mountain Herbs",
+    "icon": "herb"
+  },
+  {
+    "name": "Giant Corn",
+    "icon": "herb"
+  },
+  {
+    "name": "Special Mushroom",
+    "icon": "mushroom"
+  },
+  {
+    "name": "Select Mushroom",
+    "icon": "mushroom"
+  },
+  {
+    "name": "Blue Mushroom",
+    "icon": "mushroom"
+  },
+  {
+    "name": "Nitroshroom",
+    "icon": "mushroom"
+  },
+  {
+    "name": "Parashroom",
+    "icon": "mushroom"
+  },
+  {
+    "name": "Toadstool",
+    "icon": "mushroom"
+  },
+  {
+    "name": "Exciteshroom",
+    "icon": "mushroom"
+  },
+  {
+    "name": "Dragon Toadstool",
+    "icon": "mushroom"
+  },
+  {
+    "name": "Spicy Mushroom",
+    "icon": "mushroom"
+  },
+  {
+    "name": "Chaos Mushroom",
+    "icon": "mushroom"
+  },
+  {
+    "name": "Paintberry",
+    "icon": "seed"
+  },
+  {
+    "name": "Power Seed",
+    "icon": "seed"
+  },
+  {
+    "name": "Armor Seed",
+    "icon": "seed"
+  },
+  {
+    "name": "Dragon Seed",
+    "icon": "seed"
+  },
+  {
+    "name": "Scatternut",
+    "icon": "seed"
+  },
+  {
+    "name": "Needleberry",
+    "icon": "seed"
+  },
+  {
+    "name": "Bomberry",
+    "icon": "seed"
+  },
+  {
+    "name": "Tropical Berry",
+    "icon": "seed"
+  },
+  {
+    "name": "Frozen Berry",
+    "icon": "seed"
+  },
+  {
+    "name": "Red Seed",
+    "icon": "seed"
+  },
+  {
+    "name": "Green Seed",
+    "icon": "seed"
+  },
+  {
+    "name": "Yellow Seed",
+    "icon": "seed"
+  },
+  {
+    "name": "Beautiful Shell",
+    "icon": "scale"
+  },
+  {
+    "name": "Black Pearl",
+    "icon": "scale"
+  },
+  {
+    "name": "Giant Blk Pearl",
+    "icon": "scale"
+  },
+  {
+    "name": "Stone",
+    "icon": "ore"
+  },
+  {
+    "name": "Disk Stone",
+    "icon": "ore"
+  },
+  {
+    "name": "Iron Ore",
+    "icon": "ore"
+  },
+  {
+    "name": "Earth Crystal",
+    "icon": "ore"
+  },
+  {
+    "name": "Machalite Ore",
+    "icon": "ore"
+  },
+  {
+    "name": "Dragonite Ore",
+    "icon": "ore"
+  },
+  {
+    "name": "Carbalite Ore",
+    "icon": "ore"
+  },
+  {
+    "name": "Eltalite Ore",
+    "icon": "ore"
+  },
+  {
+    "name": "Union Ore",
+    "icon": "ore"
+  },
+  {
+    "name": "Mellanje Ore",
+    "icon": "ore"
+  },
+  {
+    "name": "Firestone",
+    "icon": "ore"
+  },
+  {
+    "name": "Firecell Stone",
+    "icon": "ore"
+  },
+  {
+    "name": "Coal",
+    "icon": "ore"
+  },
+  {
+    "name": "Goldstone Piece",
+    "icon": "ore"
+  },
+  {
+    "name": "Goldstone Hunk",
+    "icon": "ore"
+  },
+  {
+    "name": "Lightcrystal",
+    "icon": "ore"
+  },
+  {
+    "name": "Novacrystal",
+    "icon": "ore"
+  },
+  {
+    "name": "Purecrystal",
+    "icon": "ore"
+  },
+  {
+    "name": "Antiseptic Stone",
+    "icon": "ore"
+  },
+  {
+    "name": "Ice Crystal",
+    "icon": "ore"
+  },
+  {
+    "name": "Rainbow Ore",
+    "icon": "ore"
+  },
+  {
+    "name": "Great Stone",
+    "icon": "ore"
+  },
+  {
+    "name": "Armor Stone",
+    "icon": "armor-stone"
+  },
+  {
+    "name": "Armor Sphere",
+    "icon": "armor-stone"
+  },
+  {
+    "name": "Armor Sphere+",
+    "icon": "armor-stone"
+  },
+  {
+    "name": "Hrd Armor Sphere",
+    "icon": "armor-stone"
+  },
+  {
+    "name": "Hvy Armor Sphere",
+    "icon": "armor-stone"
+  },
+  {
+    "name": "Ryl Armor Sphere",
+    "icon": "armor-stone"
+  },
+  {
+    "name": "Tru Armor Sphere",
+    "icon": "armor-stone"
+  },
+  {
+    "name": "Knife Mackerel",
+    "icon": "fish"
+  },
+  {
+    "name": "Sushifish",
+    "icon": "fish"
+  },
+  {
+    "name": "Sleepyfish",
+    "icon": "fish"
+  },
+  {
+    "name": "Pin Tuna",
+    "icon": "fish"
+  },
+  {
+    "name": "Rumblefish",
+    "icon": "fish"
+  },
+  {
+    "name": "Scatterfish",
+    "icon": "fish"
+  },
+  {
+    "name": "Burst Arrowana",
+    "icon": "fish"
+  },
+  {
+    "name": "Bomb Arrowana",
+    "icon": "fish"
+  },
+  {
+    "name": "Glutton Tuna",
+    "icon": "fish"
+  },
+  {
+    "name": "Gastronome Tuna",
+    "icon": "fish"
+  },
+  {
+    "name": "Speartuna",
+    "icon": "fish"
+  },
+  {
+    "name": "Small Goldenfish",
+    "icon": "fish"
+  },
+  {
+    "name": "Goldenfish",
+    "icon": "fish"
+  },
+  {
+    "name": "Silverfish",
+    "icon": "fish"
+  },
+  {
+    "name": "Ancient Fish",
+    "icon": "fish"
+  },
+  {
+    "name": "Springnight Carp",
+    "icon": "fish"
+  },
+  {
+    "name": "Tailed Frog",
+    "icon": "pelt"
+  },
+  {
+    "name": "Insect Husk",
+    "icon": "insect"
+  },
+  {
+    "name": "Yambug",
+    "icon": "insect"
+  },
+  {
+    "name": "Bughopper",
+    "icon": "insect"
+  },
+  {
+    "name": "Snakebee Larva",
+    "icon": "insect"
+  },
+  {
+    "name": "Godbug",
+    "icon": "insect"
+  },
+  {
+    "name": "Bitterbug",
+    "icon": "insect"
+  },
+  {
+    "name": "Flashbug",
+    "icon": "insect"
+  },
+  {
+    "name": "Thunderbug",
+    "icon": "insect"
+  },
+  {
+    "name": "Carpenterbug",
+    "icon": "insect"
+  },
+  {
+    "name": "King Scarab",
+    "icon": "insect"
+  },
+  {
+    "name": "Emperor Cricket",
+    "icon": "insect"
+  },
+  {
+    "name": "Killer Beetle",
+    "icon": "insect"
+  },
+  {
+    "name": "Hercudrome",
+    "icon": "insect"
+  },
+  {
+    "name": "Rare Scarab",
+    "icon": "insect"
+  },
+  {
+    "name": "PhantomButterfly",
+    "icon": "insect"
+  },
+  {
+    "name": "Royal Rhino",
+    "icon": "insect"
+  },
+  {
+    "name": "Divine Rhino",
+    "icon": "insect"
+  },
+  {
+    "name": "Rainbow Insect",
+    "icon": "insect"
+  },
+  {
+    "name": "Great Hornfly",
+    "icon": "insect"
+  },
+  {
+    "name": "Great Ladybug",
+    "icon": "insect"
+  },
+  {
+    "name": "Screamer",
+    "icon": "bag"
+  },
+  {
+    "name": "Poison Sac",
+    "icon": "bag"
+  },
+  {
+    "name": "Toxin Sac",
+    "icon": "bag"
+  },
+  {
+    "name": "DeadlyPoisonSac",
+    "icon": "bag"
+  },
+  {
+    "name": "Paralysis Sac",
+    "icon": "bag"
+  },
+  {
+    "name": "Sleep Sac",
+    "icon": "bag"
+  },
+  {
+    "name": "Coma Sac",
+    "icon": "bag"
+  },
+  {
+    "name": "Flame Sac",
+    "icon": "bag"
+  },
+  {
+    "name": "Inferno Sac",
+    "icon": "bag"
+  },
+  {
+    "name": "Blazing Fire Sac",
+    "icon": "bag"
+  },
+  {
+    "name": "Electro Sac",
+    "icon": "bag"
+  },
+  {
+    "name": "Thunder Sac",
+    "icon": "bag"
+  },
+  {
+    "name": "Lightning Sac",
+    "icon": "bag"
+  },
+  {
+    "name": "Power Extract",
+    "icon": "bottle"
+  },
+  {
+    "name": "Pale Extract",
+    "icon": "bottle"
+  },
+  {
+    "name": "Sm Monster Bone",
+    "icon": "bone"
+  },
+  {
+    "name": "Med Monster Bone",
+    "icon": "bone"
+  },
+  {
+    "name": "Lg Monster Bone",
+    "icon": "bone"
+  },
+  {
+    "name": "Monster Bone+",
+    "icon": "bone"
+  },
+  {
+    "name": "Hrd Monster Bone",
+    "icon": "bone"
+  },
+  {
+    "name": "Hvy Monster Bone",
+    "icon": "bone"
+  },
+  {
+    "name": "Eldr Dragon Bone",
+    "icon": "bone"
+  },
+  {
+    "name": "BigEDragonBone",
+    "icon": "bone"
+  },
+  {
+    "name": "Mystery Bone",
+    "icon": "bone"
+  },
+  {
+    "name": "Unknown Skull",
+    "icon": "bone"
+  },
+  {
+    "name": "Master's Skull",
+    "icon": "bone"
+  },
+  {
+    "name": "Bone",
+    "icon": "bone"
+  },
+  {
+    "name": "RobustWyvernBone",
+    "icon": "bone"
+  },
+  {
+    "name": "Brute Bone",
+    "icon": "bone"
+  },
+  {
+    "name": "Giant Bone",
+    "icon": "bone"
+  },
+  {
+    "name": "Stout Bone",
+    "icon": "bone"
+  },
+  {
+    "name": "Massive Bone",
+    "icon": "bone"
+  },
+  {
+    "name": "Wyvern Fang",
+    "icon": "fang"
+  },
+  {
+    "name": "Wyvern Claw",
+    "icon": "fang"
+  },
+  {
+    "name": "Wyvern Stone",
+    "icon": "ball"
+  },
+  {
+    "name": "Big Wyvern Stone",
+    "icon": "ball"
+  },
+  {
+    "name": "BigEDragonJewel",
+    "icon": "ball"
+  },
+  {
+    "name": "White Liver",
+    "icon": "meat"
+  },
+  {
+    "name": "Popo Tongue",
+    "icon": "meat"
+  },
+  {
+    "name": "Secret Pouch",
+    "icon": "seed"
+  },
+  {
+    "name": "CarapaceonBrains",
+    "icon": "carapaceon-shell"
+  },
+  {
+    "name": "CarapaceonBrain+",
+    "icon": "carapaceon-shell"
+  },
+  {
+    "name": "Piscine Liver",
+    "icon": "monster"
+  },
+  {
+    "name": "Wyvern Tears",
+    "icon": "monster"
+  },
+  {
+    "name": "Wyvern Sobs",
+    "icon": "monster"
+  },
+  {
+    "name": "Territorial Dung",
+    "icon": "dung"
+  },
+  {
+    "name": "TerritorialDung+",
+    "icon": "dung"
+  },
+  {
+    "name": "Crab Pearl",
+    "icon": "monster"
+  },
+  {
+    "name": "Crab Pearl+",
+    "icon": "monster"
+  },
+  {
+    "name": "Dragon Treasure",
+    "icon": "monster"
+  },
+  {
+    "name": "Anc Drgn Treasre",
+    "icon": "monster"
+  },
+  {
+    "name": "Decayed Drgn Scl",
+    "icon": "scale"
+  },
+  {
+    "name": "Dragon Herb",
+    "icon": "ore"
+  },
+  {
+    "name": "Felyne Fur Ruby",
+    "icon": "ball"
+  },
+  {
+    "name": "Mosswine Hide",
+    "icon": "pelt"
+  },
+  {
+    "name": "Bullfango Pelt",
+    "icon": "pelt"
+  },
+  {
+    "name": "ThkBullfangoPelt",
+    "icon": "pelt"
+  },
+  {
+    "name": "Bullfango Head",
+    "icon": "pelt"
+  },
+  {
+    "name": "Bulldrome Tusk",
+    "icon": "fang"
+  },
+  {
+    "name": "Bulldrome Hide",
+    "icon": "pelt"
+  },
+  {
+    "name": "Bulldrome Hide+",
+    "icon": "pelt"
+  },
+  {
+    "name": "Kelbi Horn",
+    "icon": "fang"
+  },
+  {
+    "name": "Kelbi Hide",
+    "icon": "pelt"
+  },
+  {
+    "name": "Anteka Antlers",
+    "icon": "fang"
+  },
+  {
+    "name": "Anteka Pelt",
+    "icon": "pelt"
+  },
+  {
+    "name": "High Qualty Pelt",
+    "icon": "pelt"
+  },
+  {
+    "name": "Remobra Skin",
+    "icon": "pelt"
+  },
+  {
+    "name": "Remobra Skin+",
+    "icon": "pelt"
+  },
+  {
+    "name": "SpecRemobraSkin+",
+    "icon": "pelt"
+  },
+  {
+    "name": "Striped Skin",
+    "icon": "pelt"
+  },
+  {
+    "name": "Remobra Skull",
+    "icon": "monster"
+  },
+  {
+    "name": "ShakalakaTreasre",
+    "icon": "bag"
+  },
+  {
+    "name": "ShakalakaTreasr+",
+    "icon": "bag"
+  },
+  {
+    "name": "ShakaInheritance",
+    "icon": "bag"
+  },
+  {
+    "name": "Giaprey Scale",
+    "icon": "scale"
+  },
+  {
+    "name": "Giaprey Scale+",
+    "icon": "scale"
+  },
+  {
+    "name": "Giaprey Hide",
+    "icon": "pelt"
+  },
+  {
+    "name": "Giaprey Hide+",
+    "icon": "pelt"
+  },
+  {
+    "name": "Giadrome Hide",
+    "icon": "pelt"
+  },
+  {
+    "name": "Giadrome Claw",
+    "icon": "fang"
+  },
+  {
+    "name": "Giadrome Claw+",
+    "icon": "fang"
+  },
+  {
+    "name": "Giadrome Skull",
+    "icon": "monster"
+  },
+  {
+    "name": "Velociprey Fang",
+    "icon": "fang"
+  },
+  {
+    "name": "Velociprey Scale",
+    "icon": "scale"
+  },
+  {
+    "name": "Velociprey Scle+",
+    "icon": "scale"
+  },
+  {
+    "name": "Velociprey Hide",
+    "icon": "pelt"
+  },
+  {
+    "name": "Velociprey Hide+",
+    "icon": "pelt"
+  },
+  {
+    "name": "Velocidrome Hide",
+    "icon": "pelt"
+  },
+  {
+    "name": "Velocidrome Claw",
+    "icon": "fang"
+  },
+  {
+    "name": "Velocidrome Clw+",
+    "icon": "fang"
+  },
+  {
+    "name": "Velocidrome Head",
+    "icon": "pelt"
+  },
+  {
+    "name": "Genprey Fang",
+    "icon": "fang"
+  },
+  {
+    "name": "Genprey Scale",
+    "icon": "scale"
+  },
+  {
+    "name": "Genprey Scale+",
+    "icon": "scale"
+  },
+  {
+    "name": "Genprey Hide",
+    "icon": "pelt"
+  },
+  {
+    "name": "Genprey Hide+",
+    "icon": "pelt"
+  },
+  {
+    "name": "Gendrome Hide",
+    "icon": "pelt"
+  },
+  {
+    "name": "Gendrome Tail",
+    "icon": "pelt"
+  },
+  {
+    "name": "Gendrome Skull",
+    "icon": "monster"
+  },
+  {
+    "name": "Ioprey Fang",
+    "icon": "fang"
+  },
+  {
+    "name": "Ioprey Scale",
+    "icon": "scale"
+  },
+  {
+    "name": "Ioprey Scale+",
+    "icon": "scale"
+  },
+  {
+    "name": "Ioprey Hide",
+    "icon": "pelt"
+  },
+  {
+    "name": "Ioprey Hide+",
+    "icon": "pelt"
+  },
+  {
+    "name": "Iodrome Hide",
+    "icon": "pelt"
+  },
+  {
+    "name": "Iodrome Skull",
+    "icon": "monster"
+  },
+  {
+    "name": "OrangeHypnoPelt",
+    "icon": "monster"
+  },
+  {
+    "name": "OrangeHypnoPelt+",
+    "icon": "monster"
+  },
+  {
+    "name": "Top-GrdHypnoClaw",
+    "icon": "fang"
+  },
+  {
+    "name": "Hypno Claw+",
+    "icon": "fang"
+  },
+  {
+    "name": "Hypno Bezoar",
+    "icon": "ore"
+  },
+  {
+    "name": "Hypno Bezoar+",
+    "icon": "ore"
+  },
+  {
+    "name": "Hypno Beak",
+    "icon": "bone"
+  },
+  {
+    "name": "Hypno Fang",
+    "icon": "bone"
+  },
+  {
+    "name": "RainbowTailFeath",
+    "icon": "scale"
+  },
+  {
+    "name": "Hypno Ticket",
+    "icon": "ticket"
+  },
+  {
+    "name": "Kut-Ku Scale",
+    "icon": "scale"
+  },
+  {
+    "name": "Kut-Ku Scale+",
+    "icon": "scale"
+  },
+  {
+    "name": "Thick Kut-Ku Scl",
+    "icon": "scale"
+  },
+  {
+    "name": "Kut-Ku Shell",
+    "icon": "monster"
+  },
+  {
+    "name": "Kut-Ku Carapace",
+    "icon": "monster"
+  },
+  {
+    "name": "Hvy Kut-Ku Shell",
+    "icon": "monster"
+  },
+  {
+    "name": "Kut-Ku Ear",
+    "icon": "monster"
+  },
+  {
+    "name": "Long Kut-Ku Ear",
+    "icon": "monster"
+  },
+  {
+    "name": "Lucky Kut-Ku Ear",
+    "icon": "monster"
+  },
+  {
+    "name": "Giant Beak",
+    "icon": "bone"
+  },
+  {
+    "name": "Splendid Beak",
+    "icon": "bone"
+  },
+  {
+    "name": "Kut-Ku Webbing",
+    "icon": "honey"
+  },
+  {
+    "name": "Str Kut-Ku Wing",
+    "icon": "monster"
+  },
+  {
+    "name": "Blue Kut-Ku Scl",
+    "icon": "scale"
+  },
+  {
+    "name": "Blue Kut-Ku Scl+",
+    "icon": "scale"
+  },
+  {
+    "name": "ThkBlueKut-KuScl",
+    "icon": "scale"
+  },
+  {
+    "name": "Blue Kut-Ku Shl",
+    "icon": "monster"
+  },
+  {
+    "name": "Blue Kut-Ku Cpc",
+    "icon": "monster"
+  },
+  {
+    "name": "HvyBlueKut-KuShl",
+    "icon": "monster"
+  },
+  {
+    "name": "Rubbery Hide",
+    "icon": "pelt"
+  },
+  {
+    "name": "Rubbery Hide+",
+    "icon": "pelt"
+  },
+  {
+    "name": "SpecRubberyHide+",
+    "icon": "pelt"
+  },
+  {
+    "name": "Gypceros Head",
+    "icon": "monster"
+  },
+  {
+    "name": "HardGypcerosHead",
+    "icon": "monster"
+  },
+  {
+    "name": "Pur Rubbery Hide",
+    "icon": "pelt"
+  },
+  {
+    "name": "Pur Gypceros Wng",
+    "icon": "monster"
+  },
+  {
+    "name": "HrdPuGypcerosWng",
+    "icon": "monster"
+  },
+  {
+    "name": "Garuga Scale",
+    "icon": "scale"
+  },
+  {
+    "name": "Garuga Scale+",
+    "icon": "scale"
+  },
+  {
+    "name": "ThickGarugaScale",
+    "icon": "scale"
+  },
+  {
+    "name": "Garuga Shell",
+    "icon": "monster"
+  },
+  {
+    "name": "Garuga Carapace",
+    "icon": "monster"
+  },
+  {
+    "name": "Hvy Garuga Shell",
+    "icon": "monster"
+  },
+  {
+    "name": "Garuga Ear",
+    "icon": "monster"
+  },
+  {
+    "name": "Long Garuga Ear",
+    "icon": "monster"
+  },
+  {
+    "name": "Sharpened Beak",
+    "icon": "bone"
+  },
+  {
+    "name": "Rejuvenated Beak",
+    "icon": "bone"
+  },
+  {
+    "name": "Garuga Wing",
+    "icon": "monster"
+  },
+  {
+    "name": "Str Garuga Wing",
+    "icon": "monster"
+  },
+  {
+    "name": "Garuga Tail",
+    "icon": "monster"
+  },
+  {
+    "name": "LethrGarugaTail",
+    "icon": "monster"
+  },
+  {
+    "name": "Garuga Mane",
+    "icon": "monster"
+  },
+  {
+    "name": "SilverGarugaPelt",
+    "icon": "monster"
+  },
+  {
+    "name": "Blango Pelt",
+    "icon": "pelt"
+  },
+  {
+    "name": "Blango Pelt+",
+    "icon": "pelt"
+  },
+  {
+    "name": "Sharp Claw",
+    "icon": "fang"
+  },
+  {
+    "name": "Piercing Claw",
+    "icon": "fang"
+  },
+  {
+    "name": "Blangonga Fang",
+    "icon": "fang"
+  },
+  {
+    "name": "Blangonga Fang+",
+    "icon": "fang"
+  },
+  {
+    "name": "HvyBlangongaFang",
+    "icon": "fang"
+  },
+  {
+    "name": "Blangonga Pelt",
+    "icon": "pelt"
+  },
+  {
+    "name": "Blangonga Pelt+",
+    "icon": "pelt"
+  },
+  {
+    "name": "HrdBlangongaPlt+",
+    "icon": "pelt"
+  },
+  {
+    "name": "Blangonga Whiskr",
+    "icon": "monster"
+  },
+  {
+    "name": "Lthr Pelagus Plt",
+    "icon": "monster"
+  },
+  {
+    "name": "Blangonga Tail",
+    "icon": "monster"
+  },
+  {
+    "name": "LeathrBlangoTail",
+    "icon": "monster"
+  },
+  {
+    "name": "C.BlangongaPelt+",
+    "icon": "pelt"
+  },
+  {
+    "name": "HvyC.BlangoFang",
+    "icon": "fang"
+  },
+  {
+    "name": "LthrC.BlangoTail",
+    "icon": "monster"
+  },
+  {
+    "name": "Conga Pelt",
+    "icon": "pelt"
+  },
+  {
+    "name": "Conga Pelt+",
+    "icon": "pelt"
+  },
+  {
+    "name": "Congalala Pelt",
+    "icon": "pelt"
+  },
+  {
+    "name": "Congalala Pelt+",
+    "icon": "pelt"
+  },
+  {
+    "name": "HrdCongalalaPlt+",
+    "icon": "pelt"
+  },
+  {
+    "name": "Vibrant Pelt",
+    "icon": "pelt"
+  },
+  {
+    "name": "Congalala Claw",
+    "icon": "fang"
+  },
+  {
+    "name": "Congalala Claw+",
+    "icon": "fang"
+  },
+  {
+    "name": "HrdCongalalaClw+",
+    "icon": "fang"
+  },
+  {
+    "name": "Congalala Fang",
+    "icon": "fang"
+  },
+  {
+    "name": "Lg Pelagus Fang",
+    "icon": "fang"
+  },
+  {
+    "name": "E.CongalalaPelt+",
+    "icon": "pelt"
+  },
+  {
+    "name": "HrdE.CongaClaw",
+    "icon": "fang"
+  },
+  {
+    "name": "Vibrant Comb",
+    "icon": "pelt"
+  },
+  {
+    "name": "Rajang Horn",
+    "icon": "fang"
+  },
+  {
+    "name": "Hard Rajang Horn",
+    "icon": "fang"
+  },
+  {
+    "name": "Rajang Fang",
+    "icon": "fang"
+  },
+  {
+    "name": "Hvy Rajang Fang",
+    "icon": "fang"
+  },
+  {
+    "name": "Blk Rajang Pelt",
+    "icon": "scale"
+  },
+  {
+    "name": "Blk Rajang Pelt+",
+    "icon": "pelt"
+  },
+  {
+    "name": "Rajang Claw",
+    "icon": "fang"
+  },
+  {
+    "name": "Hard Rajang Claw",
+    "icon": "fang"
+  },
+  {
+    "name": "Rajang Tail",
+    "icon": "monster"
+  },
+  {
+    "name": "Gold Rajang Pelt",
+    "icon": "pelt"
+  },
+  {
+    "name": "GoldRajangPelt+",
+    "icon": "pelt"
+  },
+  {
+    "name": "Piscine Fang",
+    "icon": "fang"
+  },
+  {
+    "name": "HvyPiscineFang",
+    "icon": "fang"
+  },
+  {
+    "name": "Plesioth Scale",
+    "icon": "scale"
+  },
+  {
+    "name": "Plesioth Scale+",
+    "icon": "scale"
+  },
+  {
+    "name": "ThckPlesiothScl",
+    "icon": "scale"
+  },
+  {
+    "name": "Plesioth Fin",
+    "icon": "monster"
+  },
+  {
+    "name": "Plesioth Fin+",
+    "icon": "monster"
+  },
+  {
+    "name": "SpecPlesiothFin+",
+    "icon": "monster"
+  },
+  {
+    "name": "Grn Plesioth Scl",
+    "icon": "scale"
+  },
+  {
+    "name": "Grn Plsioth Scl+",
+    "icon": "scale"
+  },
+  {
+    "name": "ThckGrnPlesioScl",
+    "icon": "scale"
+  },
+  {
+    "name": "Grn Plesioth Fin",
+    "icon": "monster"
+  },
+  {
+    "name": "Grn Plsioth Fin+",
+    "icon": "monster"
+  },
+  {
+    "name": "SpecGrnPlesioFn+",
+    "icon": "monster"
+  },
+  {
+    "name": "Cephalos Scale",
+    "icon": "scale"
+  },
+  {
+    "name": "Cephalos Scale+",
+    "icon": "scale"
+  },
+  {
+    "name": "Cephalos Fin",
+    "icon": "monster"
+  },
+  {
+    "name": "Cephalos Fin+",
+    "icon": "monster"
+  },
+  {
+    "name": "Coral Cphlos Scl",
+    "icon": "scale"
+  },
+  {
+    "name": "Coral Cphlos Fin",
+    "icon": "monster"
+  },
+  {
+    "name": "ThckLavasiothScl",
+    "icon": "scale"
+  },
+  {
+    "name": "HvyLavasiothShl",
+    "icon": "monster"
+  },
+  {
+    "name": "HvyLavasiothFang",
+    "icon": "fang"
+  },
+  {
+    "name": "SpecLavasioFin+",
+    "icon": "monster"
+  },
+  {
+    "name": "Lavasioth Ticket",
+    "icon": "ticket"
+  },
+  {
+    "name": "Wyvern Skull Shl",
+    "icon": "monster"
+  },
+  {
+    "name": "Sm Hermitaur Shl",
+    "icon": "carapaceon-shell"
+  },
+  {
+    "name": "Hermitaur Shell",
+    "icon": "carapaceon-shell"
+  },
+  {
+    "name": "Hermitaur Carpce",
+    "icon": "carapaceon-shell"
+  },
+  {
+    "name": "HvyHermitaurShl",
+    "icon": "carapaceon-shell"
+  },
+  {
+    "name": "Hermitaur Claw",
+    "icon": "fang"
+  },
+  {
+    "name": "Hermitaur Claw+",
+    "icon": "fang"
+  },
+  {
+    "name": "HrdHermitaurClaw",
+    "icon": "fang"
+  },
+  {
+    "name": "PlumD.HermitrShl",
+    "icon": "carapaceon-shell"
+  },
+  {
+    "name": "PlumD.HermitrClw",
+    "icon": "fang"
+  },
+  {
+    "name": "Sm Ceanataur Shl",
+    "icon": "carapaceon-shell"
+  },
+  {
+    "name": "Ceanataur Shell",
+    "icon": "carapaceon-shell"
+  },
+  {
+    "name": "Ceanataur Carpce",
+    "icon": "carapaceon-shell"
+  },
+  {
+    "name": "HvyCeanataurShl",
+    "icon": "carapaceon-shell"
+  },
+  {
+    "name": "Ceanataur Leg",
+    "icon": "carapaceon-shell"
+  },
+  {
+    "name": "HvyCeanataurLeg",
+    "icon": "carapaceon-shell"
+  },
+  {
+    "name": "Ceanataur Pincer",
+    "icon": "carapaceon-shell"
+  },
+  {
+    "name": "Ceanataur Claw",
+    "icon": "fang"
+  },
+  {
+    "name": "Ceanataur Claw+",
+    "icon": "fang"
+  },
+  {
+    "name": "HrdCeanataurClaw",
+    "icon": "fang"
+  },
+  {
+    "name": "TerraCeanatrShl",
+    "icon": "carapaceon-shell"
+  },
+  {
+    "name": "TerraCeanatrClaw",
+    "icon": "fang"
+  },
+  {
+    "name": "Sm Lobstershell",
+    "icon": "carapaceon-shell"
+  },
+  {
+    "name": "Lg Lobstershell",
+    "icon": "carapaceon-shell"
+  },
+  {
+    "name": "Gt Lobstershell",
+    "icon": "carapaceon-shell"
+  },
+  {
+    "name": "Rathian Scale",
+    "icon": "scale"
+  },
+  {
+    "name": "Rathian Scale+",
+    "icon": "scale"
+  },
+  {
+    "name": "ThckRathianScl",
+    "icon": "scale"
+  },
+  {
+    "name": "Rathian Plate",
+    "icon": "scale"
+  },
+  {
+    "name": "Rathian Ruby",
+    "icon": "ball"
+  },
+  {
+    "name": "HvnlyRathianScl",
+    "icon": "hvnly-scale"
+  },
+  {
+    "name": "Rathian Shell",
+    "icon": "monster"
+  },
+  {
+    "name": "Rathian Carapace",
+    "icon": "monster"
+  },
+  {
+    "name": "HvyRathianShell",
+    "icon": "monster"
+  },
+  {
+    "name": "Rathian Spike",
+    "icon": "monster"
+  },
+  {
+    "name": "Rathian Spike+",
+    "icon": "monster"
+  },
+  {
+    "name": "Rathian Thorn",
+    "icon": "monster"
+  },
+  {
+    "name": "Pnk Rathian Scl",
+    "icon": "scale"
+  },
+  {
+    "name": "Pnk Rathian Scl+",
+    "icon": "scale"
+  },
+  {
+    "name": "ThckPnkRathnScl",
+    "icon": "scale"
+  },
+  {
+    "name": "Pnk Rathian Shl",
+    "icon": "monster"
+  },
+  {
+    "name": "Pnk Rathian Cpc",
+    "icon": "monster"
+  },
+  {
+    "name": "HvyPnkRathianShl",
+    "icon": "monster"
+  },
+  {
+    "name": "Gld Rathian Scl+",
+    "icon": "scale"
+  },
+  {
+    "name": "ThckGldRathnScl",
+    "icon": "scale"
+  },
+  {
+    "name": "Gld Rathian Cpc",
+    "icon": "monster"
+  },
+  {
+    "name": "HvyGldRathianShl",
+    "icon": "monster"
+  },
+  {
+    "name": "GoldRathianThorn",
+    "icon": "monster"
+  },
+  {
+    "name": "Fire Wyvern Claw",
+    "icon": "fang"
+  },
+  {
+    "name": "HrdFireWyvernClw",
+    "icon": "fang"
+  },
+  {
+    "name": "FireWyvern Fluid",
+    "icon": "monster"
+  },
+  {
+    "name": "FireWyvrn Marrow",
+    "icon": "monster"
+  },
+  {
+    "name": "FireWyvrn BrnStm",
+    "icon": "monster"
+  },
+  {
+    "name": "Rathalos Scale",
+    "icon": "scale"
+  },
+  {
+    "name": "Rathalos Scale+",
+    "icon": "scale"
+  },
+  {
+    "name": "Hrd Rathalos Scl",
+    "icon": "scale"
+  },
+  {
+    "name": "Rathalos Plate",
+    "icon": "scale"
+  },
+  {
+    "name": "Rathalos Ruby",
+    "icon": "ball"
+  },
+  {
+    "name": "HvnlyRathalosScl",
+    "icon": "hvnly-scale"
+  },
+  {
+    "name": "Rathalos Shell",
+    "icon": "monster"
+  },
+  {
+    "name": "Rathalos Carpace",
+    "icon": "monster"
+  },
+  {
+    "name": "HvyRathalosShl",
+    "icon": "monster"
+  },
+  {
+    "name": "Rathalos Tail",
+    "icon": "monster"
+  },
+  {
+    "name": "LthrRathalosTail",
+    "icon": "monster"
+  },
+  {
+    "name": "Rathalos Webbing",
+    "icon": "honey"
+  },
+  {
+    "name": "Rathalos Wing",
+    "icon": "monster"
+  },
+  {
+    "name": "StrRathalosWing",
+    "icon": "monster"
+  },
+  {
+    "name": "Azure Rthlos Scl",
+    "icon": "scale"
+  },
+  {
+    "name": "Azre Rthlos Scl+",
+    "icon": "scale"
+  },
+  {
+    "name": "ThckAzurRthlsScl",
+    "icon": "scale"
+  },
+  {
+    "name": "Azure Rthlos Shl",
+    "icon": "monster"
+  },
+  {
+    "name": "Azure Rthlos Cpc",
+    "icon": "monster"
+  },
+  {
+    "name": "HvyAzurRthlsShl",
+    "icon": "monster"
+  },
+  {
+    "name": "Azur Rthlos Tail",
+    "icon": "monster"
+  },
+  {
+    "name": "LthrAzrRthlsTail",
+    "icon": "monster"
+  },
+  {
+    "name": "Azur Rthlos Wing",
+    "icon": "monster"
+  },
+  {
+    "name": "Slvr Rthlos Scl+",
+    "icon": "scale"
+  },
+  {
+    "name": "ThckSlvrRthlsScl",
+    "icon": "scale"
+  },
+  {
+    "name": "Slvr Rthlos Cpc",
+    "icon": "monster"
+  },
+  {
+    "name": "HvySlvrRthlsShl",
+    "icon": "monster"
+  },
+  {
+    "name": "Slvr Rthlos Tail",
+    "icon": "monster"
+  },
+  {
+    "name": "LthrSlvrRthlsTal",
+    "icon": "monster"
+  },
+  {
+    "name": "Slvr Rthlos Wing",
+    "icon": "monster"
+  },
+  {
+    "name": "Flabby Hide",
+    "icon": "pelt"
+  },
+  {
+    "name": "Khezu Hide - Tan",
+    "icon": "pelt"
+  },
+  {
+    "name": "KhezuHide-Cream",
+    "icon": "pelt"
+  },
+  {
+    "name": "Pale Bone",
+    "icon": "monster"
+  },
+  {
+    "name": "Pale Khezu Steak",
+    "icon": "monster"
+  },
+  {
+    "name": "KhezuSpecialCut",
+    "icon": "monster"
+  },
+  {
+    "name": "Alluring Hide",
+    "icon": "pelt"
+  },
+  {
+    "name": "Alluring Webbing",
+    "icon": "honey"
+  },
+  {
+    "name": "StrAlluringWing",
+    "icon": "monster"
+  },
+  {
+    "name": "Basarios Shell",
+    "icon": "monster"
+  },
+  {
+    "name": "Basarios Carpace",
+    "icon": "monster"
+  },
+  {
+    "name": "HvyBasariosShell",
+    "icon": "monster"
+  },
+  {
+    "name": "Basarios Wing",
+    "icon": "monster"
+  },
+  {
+    "name": "StrBasariosWing",
+    "icon": "monster"
+  },
+  {
+    "name": "Basarios Tears",
+    "icon": "ore"
+  },
+  {
+    "name": "Tigrex Scale",
+    "icon": "scale"
+  },
+  {
+    "name": "Tigrex Scale+",
+    "icon": "scale"
+  },
+  {
+    "name": "ThickTigrexScale",
+    "icon": "scale"
+  },
+  {
+    "name": "HvnlyTigrexScale",
+    "icon": "hvnly-scale"
+  },
+  {
+    "name": "Tigrex Shell",
+    "icon": "monster"
+  },
+  {
+    "name": "Tigrex Carapace",
+    "icon": "monster"
+  },
+  {
+    "name": "Hvy Tigrex Shell",
+    "icon": "monster"
+  },
+  {
+    "name": "Tigrex Tail",
+    "icon": "monster"
+  },
+  {
+    "name": "LeathrTigrexTail",
+    "icon": "monster"
+  },
+  {
+    "name": "Tigrex Claw",
+    "icon": "fang"
+  },
+  {
+    "name": "Tigrex Claw+",
+    "icon": "fang"
+  },
+  {
+    "name": "Hard Tigrex Claw",
+    "icon": "fang"
+  },
+  {
+    "name": "Tigrex Fang",
+    "icon": "fang"
+  },
+  {
+    "name": "Tigrex Fang+",
+    "icon": "fang"
+  },
+  {
+    "name": "Hvy Tigrex Fang",
+    "icon": "fang"
+  },
+  {
+    "name": "Tigrex Skull Shl",
+    "icon": "monster"
+  },
+  {
+    "name": "Narga Scale+",
+    "icon": "scale"
+  },
+  {
+    "name": "ThickNargaScale",
+    "icon": "scale"
+  },
+  {
+    "name": "HvnlyNargaScale",
+    "icon": "hvnly-scale"
+  },
+  {
+    "name": "Black Narga Pelt",
+    "icon": "pelt"
+  },
+  {
+    "name": "BlackNargaPelt+",
+    "icon": "pelt"
+  },
+  {
+    "name": "Nargacuga Tail",
+    "icon": "monster"
+  },
+  {
+    "name": "LeatherNargaTail",
+    "icon": "monster"
+  },
+  {
+    "name": "Narga Tail Spike",
+    "icon": "monster"
+  },
+  {
+    "name": "HvyNargaTailSpik",
+    "icon": "monster"
+  },
+  {
+    "name": "NargaCuttingWing",
+    "icon": "monster"
+  },
+  {
+    "name": "StrNargaCttngWng",
+    "icon": "monster"
+  },
+  {
+    "name": "Nargacuga Fang+",
+    "icon": "fang"
+  },
+  {
+    "name": "HvyNargacugaFang",
+    "icon": "fang"
+  },
+  {
+    "name": "Narga Brain Stem",
+    "icon": "monster"
+  },
+  {
+    "name": "Gravios Shell",
+    "icon": "monster"
+  },
+  {
+    "name": "Gravios Carapace",
+    "icon": "monster"
+  },
+  {
+    "name": "HvyGraviosShell",
+    "icon": "monster"
+  },
+  {
+    "name": "HvnlyGraviosShl",
+    "icon": "hvnly-scale"
+  },
+  {
+    "name": "Gravios Skl Shl",
+    "icon": "monster"
+  },
+  {
+    "name": "Gravios BrainStm",
+    "icon": "monster"
+  },
+  {
+    "name": "Blk Gravios Shl",
+    "icon": "monster"
+  },
+  {
+    "name": "Blk Gravios Cpc",
+    "icon": "monster"
+  },
+  {
+    "name": "HvyBlkGraviosShl",
+    "icon": "monster"
+  },
+  {
+    "name": "HvnlyBlkGraviShl",
+    "icon": "hvnly-scale"
+  },
+  {
+    "name": "Blk Gravios Skl",
+    "icon": "monster"
+  },
+  {
+    "name": "Twisted Horn",
+    "icon": "fang"
+  },
+  {
+    "name": "Majestic Horn",
+    "icon": "fang"
+  },
+  {
+    "name": "StoutWarpedHorn",
+    "icon": "fang"
+  },
+  {
+    "name": "Diablos Shell",
+    "icon": "monster"
+  },
+  {
+    "name": "Diablos Carapace",
+    "icon": "monster"
+  },
+  {
+    "name": "HvyDiablosShell",
+    "icon": "monster"
+  },
+  {
+    "name": "Diablos Spine",
+    "icon": "monster"
+  },
+  {
+    "name": "Diablos Thoracic",
+    "icon": "monster"
+  },
+  {
+    "name": "HvyDiablosSpine",
+    "icon": "monster"
+  },
+  {
+    "name": "Diablos Tail",
+    "icon": "monster"
+  },
+  {
+    "name": "LthrDiablosTail",
+    "icon": "monster"
+  },
+  {
+    "name": "Blos Fang",
+    "icon": "fang"
+  },
+  {
+    "name": "TwstBlkBlosHrn",
+    "icon": "fang"
+  },
+  {
+    "name": "StoutBlkTwstdHrn",
+    "icon": "fang"
+  },
+  {
+    "name": "Black Blos Shell",
+    "icon": "monster"
+  },
+  {
+    "name": "Black Blos Cpc",
+    "icon": "monster"
+  },
+  {
+    "name": "HvyBlkBlosShell",
+    "icon": "monster"
+  },
+  {
+    "name": "Black Blos Spine",
+    "icon": "monster"
+  },
+  {
+    "name": "Blk Blos Thracic",
+    "icon": "monster"
+  },
+  {
+    "name": "HvyBlkBlosSpine",
+    "icon": "monster"
+  },
+  {
+    "name": "Black Blos Tail",
+    "icon": "monster"
+  },
+  {
+    "name": "LthrBlkBlosTail",
+    "icon": "monster"
+  },
+  {
+    "name": "Vespoid Abdomen",
+    "icon": "insect"
+  },
+  {
+    "name": "VespoidQn'sCrown",
+    "icon": "insect"
+  },
+  {
+    "name": "Vespoid Shell",
+    "icon": "insect"
+  },
+  {
+    "name": "Vespoid Carapace",
+    "icon": "insect"
+  },
+  {
+    "name": "Vespoid Wing",
+    "icon": "honey"
+  },
+  {
+    "name": "Vespoid InnrWng",
+    "icon": "honey"
+  },
+  {
+    "name": "Vspoid Razorwing",
+    "icon": "honey"
+  },
+  {
+    "name": "Hornetaur Shell",
+    "icon": "insect"
+  },
+  {
+    "name": "Hornetaur Crapce",
+    "icon": "insect"
+  },
+  {
+    "name": "Hornetaur Head",
+    "icon": "insect"
+  },
+  {
+    "name": "Hornetaur Wing",
+    "icon": "honey"
+  },
+  {
+    "name": "HornetaurInnrWng",
+    "icon": "honey"
+  },
+  {
+    "name": "Hornet Razorwing",
+    "icon": "honey"
+  },
+  {
+    "name": "Blood Red Horn",
+    "icon": "fang"
+  },
+  {
+    "name": "Top-GrdRedHorn",
+    "icon": "fang"
+  },
+  {
+    "name": "Monoblos Shell",
+    "icon": "monster"
+  },
+  {
+    "name": "MonoblosCarapace",
+    "icon": "monster"
+  },
+  {
+    "name": "Monoblos Spine",
+    "icon": "monster"
+  },
+  {
+    "name": "MonoblosThoracic",
+    "icon": "monster"
+  },
+  {
+    "name": "Monoblos Heart",
+    "icon": "monster"
+  },
+  {
+    "name": "Wht Monoblos Hrn",
+    "icon": "fang"
+  },
+  {
+    "name": "Top-GrdPlatHorn",
+    "icon": "fang"
+  },
+  {
+    "name": "Wht Monoblos Shl",
+    "icon": "monster"
+  },
+  {
+    "name": "Wht Monoblos Cpc",
+    "icon": "monster"
+  },
+  {
+    "name": "Wht Monoblos Spn",
+    "icon": "monster"
+  },
+  {
+    "name": "WhtMonoblosThora",
+    "icon": "monster"
+  },
+  {
+    "name": "Kirin Horn",
+    "icon": "fang"
+  },
+  {
+    "name": "Kirin Hide",
+    "icon": "pelt"
+  },
+  {
+    "name": "Kirin Hide+",
+    "icon": "pelt"
+  },
+  {
+    "name": "SpecialKirinHide",
+    "icon": "pelt"
+  },
+  {
+    "name": "Kirin Mane",
+    "icon": "monster"
+  },
+  {
+    "name": "Platinum Mane",
+    "icon": "monster"
+  },
+  {
+    "name": "Kirin Thndr Tail",
+    "icon": "monster"
+  },
+  {
+    "name": "LthrKirinThndrTl",
+    "icon": "monster"
+  },
+  {
+    "name": "Kirin Azure Horn",
+    "icon": "fang"
+  },
+  {
+    "name": "Lao-Shan's Claw",
+    "icon": "fang"
+  },
+  {
+    "name": "Lao-Shan's Horn",
+    "icon": "fang"
+  },
+  {
+    "name": "Lao-Shan's Scale",
+    "icon": "scale"
+  },
+  {
+    "name": "Lao-Shan Scale+",
+    "icon": "scale"
+  },
+  {
+    "name": "Lao-Shan'sThkScl",
+    "icon": "scale"
+  },
+  {
+    "name": "Lao-Shan's Ruby",
+    "icon": "ball"
+  },
+  {
+    "name": "Lao-ShanHvnlyScl",
+    "icon": "hvnly-scale"
+  },
+  {
+    "name": "Lao-Shan's Shell",
+    "icon": "monster"
+  },
+  {
+    "name": "Lao-ShanCarapace",
+    "icon": "monster"
+  },
+  {
+    "name": "Lao-Shan'sHvyShl",
+    "icon": "monster"
+  },
+  {
+    "name": "Azure LaoS Horn",
+    "icon": "fang"
+  },
+  {
+    "name": "Azure LaoS Shell",
+    "icon": "monster"
+  },
+  {
+    "name": "Azure LaoS Claw",
+    "icon": "fang"
+  },
+  {
+    "name": "Gaoren Shell",
+    "icon": "carapaceon-shell"
+  },
+  {
+    "name": "Gaoren Carapace",
+    "icon": "carapaceon-shell"
+  },
+  {
+    "name": "HvyGaorenShell",
+    "icon": "carapaceon-shell"
+  },
+  {
+    "name": "HvnlyGaorenShell",
+    "icon": "hvnly-scale"
+  },
+  {
+    "name": "Gaoren Spine",
+    "icon": "carapaceon-shell"
+  },
+  {
+    "name": "Gaoren Thoracic",
+    "icon": "carapaceon-shell"
+  },
+  {
+    "name": "Hvy Gaoren Spine",
+    "icon": "carapaceon-shell"
+  },
+  {
+    "name": "Gaoren Pincer",
+    "icon": "carapaceon-shell"
+  },
+  {
+    "name": "Gaoren Claw",
+    "icon": "fang"
+  },
+  {
+    "name": "Hard Gaoren Claw",
+    "icon": "fang"
+  },
+  {
+    "name": "Daora Shell",
+    "icon": "monster"
+  },
+  {
+    "name": "Daora Carapace",
+    "icon": "monster"
+  },
+  {
+    "name": "Hvy Daora Shell",
+    "icon": "monster"
+  },
+  {
+    "name": "DaoraDragonScale",
+    "icon": "scale"
+  },
+  {
+    "name": "DaoraDragonScal+",
+    "icon": "scale"
+  },
+  {
+    "name": "ThckDaoraDrgnScl",
+    "icon": "scale"
+  },
+  {
+    "name": "Daora Webbing",
+    "icon": "honey"
+  },
+  {
+    "name": "Str Daora Wing",
+    "icon": "monster"
+  },
+  {
+    "name": "Daora Horn",
+    "icon": "fang"
+  },
+  {
+    "name": "Hard Daora Horn",
+    "icon": "fang"
+  },
+  {
+    "name": "Daora Tail",
+    "icon": "monster"
+  },
+  {
+    "name": "Lthr Daora Tail",
+    "icon": "monster"
+  },
+  {
+    "name": "Daora Claw",
+    "icon": "fang"
+  },
+  {
+    "name": "Daora Sharp Claw",
+    "icon": "fang"
+  },
+  {
+    "name": "Daora Jewel",
+    "icon": "ball"
+  },
+  {
+    "name": "Chameleos Hide",
+    "icon": "pelt"
+  },
+  {
+    "name": "Chameleos Hide+",
+    "icon": "pelt"
+  },
+  {
+    "name": "SpecChameleHide+",
+    "icon": "pelt"
+  },
+  {
+    "name": "Chameleos Horn",
+    "icon": "fang"
+  },
+  {
+    "name": "Chameleos Spike",
+    "icon": "fang"
+  },
+  {
+    "name": "HrdChameleosHorn",
+    "icon": "fang"
+  },
+  {
+    "name": "Chameleos Claw",
+    "icon": "fang"
+  },
+  {
+    "name": "ChameleosWebbing",
+    "icon": "honey"
+  },
+  {
+    "name": "StrChameleosWing",
+    "icon": "monster"
+  },
+  {
+    "name": "Chameleos Tail",
+    "icon": "monster"
+  },
+  {
+    "name": "LthrChameleoTail",
+    "icon": "monster"
+  },
+  {
+    "name": "Chameleos Jewel",
+    "icon": "ball"
+  },
+  {
+    "name": "Fire Dragon Scl",
+    "icon": "scale"
+  },
+  {
+    "name": "Fire Drgn Scl+",
+    "icon": "scale"
+  },
+  {
+    "name": "ThckFireDrgnScl",
+    "icon": "scale"
+  },
+  {
+    "name": "Fire Dragon Claw",
+    "icon": "fang"
+  },
+  {
+    "name": "HrdFireDrgnClaw",
+    "icon": "fang"
+  },
+  {
+    "name": "Fire Drgn Webbng",
+    "icon": "honey"
+  },
+  {
+    "name": "Fire Dragon Pwdr",
+    "icon": "bag"
+  },
+  {
+    "name": "Fire Drgn Jwl",
+    "icon": "ball"
+  },
+  {
+    "name": "ElderDragonBlood",
+    "icon": "monster"
+  },
+  {
+    "name": "Lunastra Shell",
+    "icon": "monster"
+  },
+  {
+    "name": "LunastraCarapace",
+    "icon": "monster"
+  },
+  {
+    "name": "Lunastra Mane",
+    "icon": "monster"
+  },
+  {
+    "name": "Lunastra Tail",
+    "icon": "monster"
+  },
+  {
+    "name": "Lunastra Horn",
+    "icon": "fang"
+  },
+  {
+    "name": "Lunastra Spike",
+    "icon": "fang"
+  },
+  {
+    "name": "Teostra Shell",
+    "icon": "monster"
+  },
+  {
+    "name": "Teostra Carapace",
+    "icon": "monster"
+  },
+  {
+    "name": "HvyTeostraShell",
+    "icon": "monster"
+  },
+  {
+    "name": "Teostra Mane",
+    "icon": "monster"
+  },
+  {
+    "name": "Teostra Tail",
+    "icon": "monster"
+  },
+  {
+    "name": "LthrTeostraTail",
+    "icon": "monster"
+  },
+  {
+    "name": "Teostra Horn",
+    "icon": "fang"
+  },
+  {
+    "name": "Teostra Horn+",
+    "icon": "fang"
+  },
+  {
+    "name": "HardTeostraHorn",
+    "icon": "fang"
+  },
+  {
+    "name": "Dragonmoss",
+    "icon": "monster"
+  },
+  {
+    "name": "Dragonmoss+",
+    "icon": "monster"
+  },
+  {
+    "name": "AncientDrgnmoss",
+    "icon": "monster"
+  },
+  {
+    "name": "Dragonwood",
+    "icon": "monster"
+  },
+  {
+    "name": "Dragonwood+",
+    "icon": "monster"
+  },
+  {
+    "name": "AncientDrgnwood",
+    "icon": "monster"
+  },
+  {
+    "name": "YamaTsukamiHide",
+    "icon": "pelt"
+  },
+  {
+    "name": "YamaTsukaFillet",
+    "icon": "monster"
+  },
+  {
+    "name": "YamaTsukamiFluid",
+    "icon": "bottle"
+  },
+  {
+    "name": "Dark Piece",
+    "icon": "scale"
+  },
+  {
+    "name": "Dark Stone",
+    "icon": "egg"
+  },
+  {
+    "name": "Fatalis Horn",
+    "icon": "fang"
+  },
+  {
+    "name": "HardFatalisHorn",
+    "icon": "fang"
+  },
+  {
+    "name": "Fatalis Scale",
+    "icon": "scale"
+  },
+  {
+    "name": "ThckFatalisScale",
+    "icon": "scale"
+  },
+  {
+    "name": "Fatalis Shell",
+    "icon": "monster"
+  },
+  {
+    "name": "Hvy Fatalis Shl",
+    "icon": "monster"
+  },
+  {
+    "name": "Fatalis Eye",
+    "icon": "monster"
+  },
+  {
+    "name": "Fatalis Evil Eye",
+    "icon": "monster"
+  },
+  {
+    "name": "Fatalis Webbing",
+    "icon": "honey"
+  },
+  {
+    "name": "Str Fatalis Wng",
+    "icon": "monster"
+  },
+  {
+    "name": "Fatalis CrmsnHrn",
+    "icon": "fang"
+  },
+  {
+    "name": "HrdFatlisCrmHorn",
+    "icon": "fang"
+  },
+  {
+    "name": "Fatalis CrmsnScl",
+    "icon": "scale"
+  },
+  {
+    "name": "ThckFatlisCrmScl",
+    "icon": "scale"
+  },
+  {
+    "name": "Fatalis CrmsnShl",
+    "icon": "monster"
+  },
+  {
+    "name": "HvyFatalisCrmShl",
+    "icon": "monster"
+  },
+  {
+    "name": "Fatalis DevilEye",
+    "icon": "monster"
+  },
+  {
+    "name": "Fatalis CrmsnWng",
+    "icon": "monster"
+  },
+  {
+    "name": "StrFatlisCrmWing",
+    "icon": "monster"
+  },
+  {
+    "name": "Wht Fatalis Scl",
+    "icon": "scale"
+  },
+  {
+    "name": "ThckWhtFatlisScl",
+    "icon": "scale"
+  },
+  {
+    "name": "Wht Fatalis Shl",
+    "icon": "monster"
+  },
+  {
+    "name": "HvyWhtFatalisShl",
+    "icon": "monster"
+  },
+  {
+    "name": "Wht Fatalis Wbng",
+    "icon": "honey"
+  },
+  {
+    "name": "StrWhtFatalisWng",
+    "icon": "monster"
+  },
+  {
+    "name": "Wht Fatalis Horn",
+    "icon": "fang"
+  },
+  {
+    "name": "HrdWhtFatlisHorn",
+    "icon": "fang"
+  },
+  {
+    "name": "Akantor Scale",
+    "icon": "scale"
+  },
+  {
+    "name": "Akantor Shell",
+    "icon": "monster"
+  },
+  {
+    "name": "Akantor Tail",
+    "icon": "monster"
+  },
+  {
+    "name": "Akantor Claw",
+    "icon": "fang"
+  },
+  {
+    "name": "Akantor Fang",
+    "icon": "fang"
+  },
+  {
+    "name": "Akantor Spike",
+    "icon": "fang"
+  },
+  {
+    "name": "HvyUkanlosShell",
+    "icon": "monster"
+  },
+  {
+    "name": "UkanlosUnderscl",
+    "icon": "scale"
+  },
+  {
+    "name": "Hvy Ukanlos Tail",
+    "icon": "monster"
+  },
+  {
+    "name": "UkanlosDiggngClw",
+    "icon": "fang"
+  },
+  {
+    "name": "UkanlosShovelJaw",
+    "icon": "monster"
+  },
+  {
+    "name": "StrongUkanlosFin",
+    "icon": "monster"
+  },
+  {
+    "name": "Ukanlos Stone",
+    "icon": "hvnly-scale"
+  },
+  {
+    "name": "Wyverian Harp",
+    "icon": "unknown"
+  },
+  {
+    "name": "Sinister Cloth",
+    "icon": "unknown"
+  },
+  {
+    "name": "Lost Umbrella",
+    "icon": "unknown"
+  },
+  {
+    "name": "Ruststone",
+    "icon": "unknown"
+  },
+  {
+    "name": "Flat Ruststone",
+    "icon": "unknown"
+  },
+  {
+    "name": "Large Ruststone",
+    "icon": "unknown"
+  },
+  {
+    "name": "Small Ruststone",
+    "icon": "unknown"
+  },
+  {
+    "name": "Ruststone Rod",
+    "icon": "unknown"
+  },
+  {
+    "name": "Ancient Stone",
+    "icon": "unknown"
+  },
+  {
+    "name": "AncientFlatstone",
+    "icon": "unknown"
+  },
+  {
+    "name": "Lg Ancient Stone",
+    "icon": "unknown"
+  },
+  {
+    "name": "Sm Ancient Stone",
+    "icon": "unknown"
+  },
+  {
+    "name": "Ancient StoneRod",
+    "icon": "unknown"
+  },
+  {
+    "name": "Organizer Guide",
+    "icon": "book"
+  },
+  {
+    "name": "Backpacker Guide",
+    "icon": "book"
+  },
+  {
+    "name": "Lynian Info",
+    "icon": "book"
+  },
+  {
+    "name": "Shakalaka Info",
+    "icon": "book"
+  },
+  {
+    "name": "Neopteron Info",
+    "icon": "book"
+  },
+  {
+    "name": "GrtThundrbugInfo",
+    "icon": "book"
+  },
+  {
+    "name": "Herbivore Info",
+    "icon": "book"
+  },
+  {
+    "name": "Bird Wyvern Info",
+    "icon": "book"
+  },
+  {
+    "name": "HypnocatriceInfo",
+    "icon": "book"
+  },
+  {
+    "name": "Yian Garuga Info",
+    "icon": "book"
+  },
+  {
+    "name": "FlyingWyvernInfo",
+    "icon": "book"
+  },
+  {
+    "name": "Remobra Info",
+    "icon": "book"
+  },
+  {
+    "name": "Tigrex Info",
+    "icon": "book"
+  },
+  {
+    "name": "Nargacuga Info",
+    "icon": "book"
+  },
+  {
+    "name": "Akantor Info",
+    "icon": "book"
+  },
+  {
+    "name": "Ukanlos Info",
+    "icon": "book"
+  },
+  {
+    "name": "Piscine Info",
+    "icon": "book"
+  },
+  {
+    "name": "Lavasioth Info",
+    "icon": "book"
+  },
+  {
+    "name": "Carapaceon Info1",
+    "icon": "book"
+  },
+  {
+    "name": "Carapaceon Info2",
+    "icon": "book"
+  },
+  {
+    "name": "Shen Gaoren Info",
+    "icon": "book"
+  },
+  {
+    "name": "Pelagus Info",
+    "icon": "book"
+  },
+  {
+    "name": "Rajang Info",
+    "icon": "book"
+  },
+  {
+    "name": "Kirin Info",
+    "icon": "book"
+  },
+  {
+    "name": "KushalaDaoraInfo",
+    "icon": "book"
+  },
+  {
+    "name": "Chameleos Info",
+    "icon": "book"
+  },
+  {
+    "name": "Lunastra Info",
+    "icon": "book"
+  },
+  {
+    "name": "Teostra Info",
+    "icon": "book"
+  },
+  {
+    "name": "Lao-Shan Info",
+    "icon": "book"
+  },
+  {
+    "name": "YamaTsukamiInfo",
+    "icon": "book"
+  },
+  {
+    "name": "Fatalis Info",
+    "icon": "book"
+  },
+  {
+    "name": "Steel Egg",
+    "icon": "egg"
+  },
+  {
+    "name": "Silver Egg",
+    "icon": "egg"
+  },
+  {
+    "name": "Golden Egg",
+    "icon": "egg"
+  },
+  {
+    "name": "Map",
+    "icon": "map"
+  },
+  {
+    "name": "First-Aid Med",
+    "icon": "bottle"
+  },
+  {
+    "name": "Ration",
+    "icon": "meat"
+  },
+  {
+    "name": "Portable Spit",
+    "icon": "bbq-spit"
+  },
+  {
+    "name": "Mini Whetstone",
+    "icon": "whetstone"
+  },
+  {
+    "name": "Prtbl Shock Trap",
+    "icon": "trap"
+  },
+  {
+    "name": "Supply Flash Bmb",
+    "icon": "ball"
+  },
+  {
+    "name": "Sply Max Potion",
+    "icon": "bag"
+  },
+  {
+    "name": "Sply Pitfall Trp",
+    "icon": "trap"
+  },
+  {
+    "name": "Sply Lg Brrl Bmb",
+    "icon": "bomb"
+  },
+  {
+    "name": "Ballista S",
+    "icon": "shell"
+  },
+  {
+    "name": "Cannon S",
+    "icon": "shell"
+  },
+  {
+    "name": "Wyvern Egg",
+    "icon": "egg"
+  },
+  {
+    "name": "Herbivore Egg",
+    "icon": "egg"
+  },
+  {
+    "name": "Carnivore Egg",
+    "icon": "egg"
+  },
+  {
+    "name": "Sootstone Ore",
+    "icon": "ore"
+  },
+  {
+    "name": "Quartz Ore",
+    "icon": "ore"
+  },
+  {
+    "name": "Powderstone",
+    "icon": "ore"
+  },
+  {
+    "name": "Khezu Whelp",
+    "icon": "monster"
+  },
+  {
+    "name": "Khz Whlp Ice Crm",
+    "icon": "unknown"
+  },
+  {
+    "name": "Kut-Ku Coin",
+    "icon": "coin"
+  },
+  {
+    "name": "Congalala Coin",
+    "icon": "coin"
+  },
+  {
+    "name": "Khezu Coin",
+    "icon": "coin"
+  },
+  {
+    "name": "Daimyo Coin",
+    "icon": "coin"
+  },
+  {
+    "name": "Blangonga Coin",
+    "icon": "coin"
+  },
+  {
+    "name": "Yian Garuga Coin",
+    "icon": "coin"
+  },
+  {
+    "name": "Tigrex Coin",
+    "icon": "coin"
+  },
+  {
+    "name": "Diablos Coin",
+    "icon": "coin"
+  },
+  {
+    "name": "Gravios Coin",
+    "icon": "coin"
+  },
+  {
+    "name": "Kirin Coin",
+    "icon": "coin"
+  },
+  {
+    "name": "Cephadrome Coin",
+    "icon": "coin"
+  },
+  {
+    "name": "Plesioth Coin",
+    "icon": "coin"
+  },
+  {
+    "name": "Shogun Coin",
+    "icon": "coin"
+  },
+  {
+    "name": "Fire Coin",
+    "icon": "coin"
+  },
+  {
+    "name": "Rajang Coin",
+    "icon": "coin"
+  },
+  {
+    "name": "BlackBeltCoinG",
+    "icon": "coin"
+  },
+  {
+    "name": "Expert Coin G",
+    "icon": "coin"
+  },
+  {
+    "name": "Warrior Coin G",
+    "icon": "coin"
+  },
+  {
+    "name": "Legend Coin G",
+    "icon": "coin"
+  },
+  {
+    "name": "Commendation",
+    "icon": "ticket"
+  },
+  {
+    "name": "Commendation G",
+    "icon": "ticket"
+  },
+  {
+    "name": "Commendation S",
+    "icon": "ticket"
+  },
+  {
+    "name": "Pawprint Stamp",
+    "icon": "ticket"
+  },
+  {
+    "name": "Pokke Ticket",
+    "icon": "ticket"
+  },
+  {
+    "name": "Pokke Ticket+",
+    "icon": "ticket"
+  },
+  {
+    "name": "Normal Ticket",
+    "icon": "ticket"
+  },
+  {
+    "name": "Hard Ticket",
+    "icon": "ticket"
+  },
+  {
+    "name": "Plus Class Tcket",
+    "icon": "ticket"
+  },
+  {
+    "name": "Hero of Kkto Bio",
+    "icon": "ticket"
+  },
+  {
+    "name": "Hero of JumboBio",
+    "icon": "ticket"
+  },
+  {
+    "name": "Elder Thank You",
+    "icon": "ticket"
+  },
+  {
+    "name": "Elder Thnk You+",
+    "icon": "ticket"
+  },
+  {
+    "name": "FlynMealPassReg",
+    "icon": "ticket"
+  },
+  {
+    "name": "FlynMealPassPlus",
+    "icon": "ticket"
+  },
+  {
+    "name": "Comrade Ticket",
+    "icon": "ticket"
+  },
+  {
+    "name": "VeggieElderTcket",
+    "icon": "ticket"
+  },
+  {
+    "name": "VeggieElderTckt+",
+    "icon": "ticket"
+  },
+  {
+    "name": "VegElderTcktBrz",
+    "icon": "ticket"
+  },
+  {
+    "name": "VegElderTcktSlv",
+    "icon": "ticket"
+  },
+  {
+    "name": "VegElderTcktGld",
+    "icon": "ticket"
+  },
+  {
+    "name": "VegElderTcktSky",
+    "icon": "ticket"
+  },
+  {
+    "name": "Blackbelt Ticket",
+    "icon": "ticket"
+  },
+  {
+    "name": "Expert Ticket",
+    "icon": "ticket"
+  },
+  {
+    "name": "Paw Pass Ticket",
+    "icon": "ticket"
+  },
+  {
+    "name": "Limited Paw Pass",
+    "icon": "ticket"
+  },
+  {
+    "name": "Hunter's Ticket",
+    "icon": "ticket"
+  },
+  {
+    "name": "Hunter Soul Tkt",
+    "icon": "ticket"
+  },
+  {
+    "name": "Puppet Ticket",
+    "icon": "ticket"
+  },
+  {
+    "name": "SpecPuppetTicket",
+    "icon": "ticket"
+  },
+  {
+    "name": "Suiko Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Akito Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "BattlefieldJewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "LapisLazuliJewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Attack Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Fierce Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Strongest Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Defense Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Turtle Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Steadfast Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Anti-Faint Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Steadfast Jewel+",
+    "icon": "jewel"
+  },
+  {
+    "name": "Paralysis Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "AntiParalyzJewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Paralysis Jewel+",
+    "icon": "jewel"
+  },
+  {
+    "name": "Pep Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Jolt Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Antidote Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Antivenin Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Antidote Jewel+",
+    "icon": "jewel"
+  },
+  {
+    "name": "Retroviral Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Antiviral Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Tireless Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Anchor Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Tectonic Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Snowblower Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Snowplow Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "SnowblowerJewel+",
+    "icon": "jewel"
+  },
+  {
+    "name": "Tip Toe Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Ninja Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Strength Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Artisan Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Master Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Fencer Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Swordsman Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Razor Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Cutter Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Sword Draw Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "UnsheathingJewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "ShortChargeJewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "RapidChargeJewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Expert Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Celebrity Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Hermit Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Grinder Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Stone Wall Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "IronCurtainJewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Hard Wall Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "StrongWall Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Wall Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "HvnlyShieldJewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Hardball Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Early Bird Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "High Speed Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Cont. Fire Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Barrage Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Recoilless Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Shockless Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "StrongShot Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "StrongShotJewel+",
+    "icon": "jewel"
+  },
+  {
+    "name": "Pierce Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Pierce Jewel+",
+    "icon": "jewel"
+  },
+  {
+    "name": "Pellet Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Pellet Jewel+",
+    "icon": "jewel"
+  },
+  {
+    "name": "Shot Bonus Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "PierceBonusJewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "PelletBonusJewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Crag Bonus Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "ScattrBonusJewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Power Coat Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "PowerCAddJewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Combo Coat Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "PoisonCoatJewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "ParalysCoatJewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "ParalysisCAddJwl",
+    "icon": "jewel"
+  },
+  {
+    "name": "Sleep Coat Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Ammo Box Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Magazine Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Sniper Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "SharpshootrJewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "SpecialAtk Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "SpecialAtkJewel+",
+    "icon": "jewel"
+  },
+  {
+    "name": "Element Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Element Jewel+",
+    "icon": "jewel"
+  },
+  {
+    "name": "Bombardier Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "TrapMasterJewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "PickyEater Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Fasting Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "No Food Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Fatso Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "QuickEaterJewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Fast Food Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Scarfing Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "BBQ Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Marathon Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Sprinter Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "ConstitutnJewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Health Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Protection Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "DivineProtectJwl",
+    "icon": "jewel"
+  },
+  {
+    "name": "Earplug Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Silencer Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "PaperweightJewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "HeavyMetal Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Solid Rock Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Melt-Proof Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Anti-Thaw Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Evade Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Dodge Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Jumping Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Flying Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Danger Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Crisis Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Pinch Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Guts Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "More Guts Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Alarm Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "StayingPwr Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Permanence Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Eternal Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Friendship Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Beloved Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Tenderness Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Backpacker Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Impervious Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Omnipotent Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "TrueResistJewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Inferno Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Crimson Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Stream Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Torrent Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Freeze Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Glacier Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Lightning Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Thunder Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Slayer Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Extinction Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "DragonslyrJewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "CoolBreeze Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Cold Wind Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "ColdBreezeJewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "WarmBreeze Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Hot Wind Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "HotBreezeJewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Map Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Gathering Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Grab'n'DashJewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Good Luck Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Blessing Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "HideCutter Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Carving Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Tranq Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Knockout Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Fate Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Destiny Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Fisher Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Psychic Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Perceive Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Feel Good Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "SpeedyRecvrJewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Curing Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Cure All Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Cure All Jewel+",
+    "icon": "jewel"
+  },
+  {
+    "name": "Professor Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Armory Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "SecretArts Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Small Arms Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Howitzer Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Fife Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Cat Guide Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Cat Attack Jewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "CatDefenseJewel",
+    "icon": "jewel"
+  },
+  {
+    "name": "Wyvernshroom",
+    "icon": "mushroom"
+  },
+  {
+    "name": "Wyvern Grass",
+    "icon": "herb"
+  },
+  {
+    "name": "Dragonite (S)",
+    "icon": "ore"
+  },
+  {
+    "name": "Dragonite (M)",
+    "icon": "ore"
+  },
+  {
+    "name": "Dragonite (L)",
+    "icon": "ore"
+  },
+  {
+    "name": "Dragonrock",
+    "icon": "ore"
+  },
+  {
+    "name": "Dragonrock+",
+    "icon": "ore"
+  },
+  {
+    "name": "Hard Dragonrock",
+    "icon": "ore"
+  },
+  {
+    "name": "Wyvern Ore",
+    "icon": "ore"
+  },
+  {
+    "name": "Pure Wyvern Ore",
+    "icon": "ore"
+  },
+  {
+    "name": "Small Wyvernfish",
+    "icon": "fish"
+  },
+  {
+    "name": "Med Wyvernfish",
+    "icon": "fish"
+  },
+  {
+    "name": "Large Wyvernfish",
+    "icon": "fish"
+  },
+  {
+    "name": "Pickaxe Fish",
+    "icon": "fish"
+  },
+  {
+    "name": "Bugnet Fish",
+    "icon": "fish"
+  },
+  {
+    "name": "Pillow Bug",
+    "icon": "insect"
+  },
+  {
+    "name": "Rathian Fly",
+    "icon": "insect"
+  },
+  {
+    "name": "Celeb Cicada",
+    "icon": "insect"
+  },
+  {
+    "name": "Rathalos Fly",
+    "icon": "insect"
+  },
+  {
+    "name": "Blango Bacon",
+    "icon": "monster"
+  },
+  {
+    "name": "Blngo Flrry Ball",
+    "icon": "unknown"
+  },
+  {
+    "name": "Blngo Blzrd Ball",
+    "icon": "unknown"
+  },
+  {
+    "name": "Blangonga Apple",
+    "icon": "seed"
+  },
+  {
+    "name": "Chuck Mackerel",
+    "icon": "fish"
+  },
+  {
+    "name": "Eldr Drgn Tears",
+    "icon": "egg"
+  },
+  {
+    "name": "Embroidered Flag",
+    "icon": "map"
+  },
+  {
+    "name": "Frozen Meatball",
+    "icon": "meat"
+  },
+  {
+    "name": "Furiamond",
+    "icon": "ore"
+  },
+  {
+    "name": "Giadrome Jewel",
+    "icon": "ball"
+  },
+  {
+    "name": "Giadrome Thigh",
+    "icon": "monster"
+  },
+  {
+    "name": "Glitter Mushroom",
+    "icon": "mushroom"
+  },
+  {
+    "name": "Green Fin",
+    "icon": "monster"
+  },
+  {
+    "name": "Lady Mackerel",
+    "icon": "fish"
+  },
+  {
+    "name": "Pokke Snowman",
+    "icon": "unknown"
+  },
+  {
+    "name": "Pokke Quartz",
+    "icon": "ore"
+  },
+  {
+    "name": "Princess Scarab",
+    "icon": "insect"
+  },
+  {
+    "name": "Popo Dandelion",
+    "icon": "herb"
+  },
+  {
+    "name": "Angler Snapper",
+    "icon": "fish"
+  },
+  {
+    "name": "Buckshot Acorn",
+    "icon": "seed"
+  },
+  {
+    "name": "Cleopatris",
+    "icon": "insect"
+  },
+  {
+    "name": "Flyn Crwn Frgmnt",
+    "icon": "unknown"
+  },
+  {
+    "name": "Inferior FlynCrn",
+    "icon": "unknown"
+  },
+  {
+    "name": "Felyne Crown",
+    "icon": "unknown"
+  },
+  {
+    "name": "Jumboite",
+    "icon": "ore"
+  },
+  {
+    "name": "Kelbi Nuts",
+    "icon": "seed"
+  },
+  {
+    "name": "Kut-Ku Cartilage",
+    "icon": "monster"
+  },
+  {
+    "name": "Kut-Ku Gizzards",
+    "icon": "monster"
+  },
+  {
+    "name": "Kut-Ku Jewel",
+    "icon": "ball"
+  },
+  {
+    "name": "Kut-Ku Skin",
+    "icon": "monster"
+  },
+  {
+    "name": "Marilyn Btterfly",
+    "icon": "insect"
+  },
+  {
+    "name": "Lao-Shan Melon",
+    "icon": "seed"
+  },
+  {
+    "name": "Shining Jellyfsh",
+    "icon": "mushroom"
+  },
+  {
+    "name": "Telos Stone",
+    "icon": "ore"
+  },
+  {
+    "name": "Velociprey Lily",
+    "icon": "herb"
+  },
+  {
+    "name": "Victory Fish",
+    "icon": "fish"
+  },
+  {
+    "name": "Bright Mushroom",
+    "icon": "mushroom"
+  },
+  {
+    "name": "Cephadrome Melon",
+    "icon": "egg"
+  },
+  {
+    "name": "Cephalos Roe",
+    "icon": "monster"
+  },
+  {
+    "name": "Cephalos Wtrmeln",
+    "icon": "seed"
+  },
+  {
+    "name": "Cooler Fish",
+    "icon": "fish"
+  },
+  {
+    "name": "Cricket of Troy",
+    "icon": "insect"
+  },
+  {
+    "name": "Daimyo Jewel",
+    "icon": "ball"
+  },
+  {
+    "name": "Daimyo Legs",
+    "icon": "monster"
+  },
+  {
+    "name": "Dragokurium",
+    "icon": "ore"
+  },
+  {
+    "name": "Eldr Drgn Fossil",
+    "icon": "bone"
+  },
+  {
+    "name": "GiantStagBeetle",
+    "icon": "insect"
+  },
+  {
+    "name": "GldBladelessHndl",
+    "icon": "unknown"
+  },
+  {
+    "name": "GldFlynJewelSwd",
+    "icon": "knife"
+  },
+  {
+    "name": "Hndlelss Gld Bld",
+    "icon": "unknown"
+  },
+  {
+    "name": "Hermitaur Brains",
+    "icon": "monster"
+  },
+  {
+    "name": "Monoblos Rose",
+    "icon": "herb"
+  },
+  {
+    "name": "Plump Goldenfish",
+    "icon": "fish"
+  },
+  {
+    "name": "Sekumaeya Pearl",
+    "icon": "ore"
+  },
+  {
+    "name": "Yokotuna",
+    "icon": "fish"
+  },
+  {
+    "name": "Bttmlss Old Vase",
+    "icon": "unknown"
+  },
+  {
+    "name": "Chameleos' Purse",
+    "icon": "herb"
+  },
+  {
+    "name": "Congalala Innrds",
+    "icon": "monster"
+  },
+  {
+    "name": "Congalala Jewel",
+    "icon": "ball"
+  },
+  {
+    "name": "Congalala Stomch",
+    "icon": "monster"
+  },
+  {
+    "name": "Nobunaga Bonito",
+    "icon": "fish"
+  },
+  {
+    "name": "Cutie Crawler",
+    "icon": "insect"
+  },
+  {
+    "name": "Dynasty Vase",
+    "icon": "unknown"
+  },
+  {
+    "name": "Ghostly Cicada",
+    "icon": "insect"
+  },
+  {
+    "name": "Golden Cocoon",
+    "icon": "egg"
+  },
+  {
+    "name": "Glittr Capshroom",
+    "icon": "mushroom"
+  },
+  {
+    "name": "Gypceros Crystal",
+    "icon": "egg"
+  },
+  {
+    "name": "Hideyoshi Ambrjk",
+    "icon": "fish"
+  },
+  {
+    "name": "Khezu Seed",
+    "icon": "seed"
+  },
+  {
+    "name": "Liber Ruby",
+    "icon": "ore"
+  },
+  {
+    "name": "Old Vase Bottom",
+    "icon": "unknown"
+  },
+  {
+    "name": "Schradite",
+    "icon": "ore"
+  },
+  {
+    "name": "Twstd Bldrm Tsk",
+    "icon": "fang"
+  },
+  {
+    "name": "Goldendrome",
+    "icon": "fish"
+  },
+  {
+    "name": "Silverdrome",
+    "icon": "fish"
+  },
+  {
+    "name": "Shakalaka Stone",
+    "icon": "unknown"
+  },
+  {
+    "name": "Holed Shaka Mask",
+    "icon": "unknown"
+  },
+  {
+    "name": "Writhe Nut",
+    "icon": "seed"
+  },
+  {
+    "name": "Minegarde Night",
+    "icon": "ore"
+  },
+  {
+    "name": "Peach Clover",
+    "icon": "herb"
+  },
+  {
+    "name": "Kokotoite",
+    "icon": "ore"
+  },
+  {
+    "name": "Skin Care Shroom",
+    "icon": "mushroom"
+  },
+  {
+    "name": "Lovely Locust",
+    "icon": "insect"
+  },
+  {
+    "name": "Rathian Chops",
+    "icon": "monster"
+  },
+  {
+    "name": "Rathian Jewel",
+    "icon": "ball"
+  },
+  {
+    "name": "Rathalos Tongue",
+    "icon": "monster"
+  },
+  {
+    "name": "Rathalos Liver",
+    "icon": "monster"
+  },
+  {
+    "name": "Rathalos Jewel",
+    "icon": "ball"
+  },
+  {
+    "name": "Mysterious Mask",
+    "icon": "unknown"
+  },
+  {
+    "name": "Amber Egg",
+    "icon": "egg"
+  },
+  {
+    "name": "Basarios Peach",
+    "icon": "seed"
+  },
+  {
+    "name": "Athena Beetle",
+    "icon": "insect"
+  },
+  {
+    "name": "Susanofish",
+    "icon": "fish"
+  },
+  {
+    "name": "Torn Old Book",
+    "icon": "ticket"
+  },
+  {
+    "name": "Beauty Shroom",
+    "icon": "mushroom"
+  },
+  {
+    "name": "Old Book Scrap",
+    "icon": "ticket"
+  },
+  {
+    "name": "Graviscus Bulb",
+    "icon": "seed"
+  },
+  {
+    "name": "Gravibiscus",
+    "icon": "herb"
+  },
+  {
+    "name": "Killer Venus",
+    "icon": "insect"
+  },
+  {
+    "name": "Dondorumin",
+    "icon": "ore"
+  },
+  {
+    "name": "Purple Crest",
+    "icon": "monster"
+  },
+  {
+    "name": "Lateobrium",
+    "icon": "ore"
+  },
+  {
+    "name": "Eldr Drgn Rfrnc",
+    "icon": "book"
+  },
+  {
+    "name": "Teostra Meteor",
+    "icon": "egg"
+  },
+  {
+    "name": "Gravios Wingtip",
+    "icon": "monster"
+  },
+  {
+    "name": "Gravios Giblets",
+    "icon": "monster"
+  },
+  {
+    "name": "Gravios Jewel",
+    "icon": "ball"
+  },
+  {
+    "name": "Amateratuna",
+    "icon": "fish"
+  },
+  {
+    "name": "Brilliant Aji",
+    "icon": "fish"
+  },
+  {
+    "name": "Hornfly Princess",
+    "icon": "insect"
+  },
+  {
+    "name": "TaillessCatStatu",
+    "icon": "unknown"
+  },
+  {
+    "name": "Century Walnut",
+    "icon": "seed"
+  },
+  {
+    "name": "Shakalaka Ranka",
+    "icon": "herb"
+  },
+  {
+    "name": "Shakalaka Squash",
+    "icon": "seed"
+  },
+  {
+    "name": "GrtForestCrystal",
+    "icon": "ore"
+  },
+  {
+    "name": "ShimmeringShroom",
+    "icon": "mushroom"
+  },
+  {
+    "name": "Hornfly Prince",
+    "icon": "insect"
+  },
+  {
+    "name": "BrokenStoneTail",
+    "icon": "unknown"
+  },
+  {
+    "name": "AncntCatKingStat",
+    "icon": "unknown"
+  },
+  {
+    "name": "ThsandYearForest",
+    "icon": "seed"
+  },
+  {
+    "name": "GarugaWhiteLiver",
+    "icon": "meat"
+  },
+  {
+    "name": "GarugaClavclMeat",
+    "icon": "monster"
+  },
+  {
+    "name": "Garuga Drumstick",
+    "icon": "monster"
+  },
+  {
+    "name": "Garuga Jewel",
+    "icon": "ball"
+  },
+  {
+    "name": "Mezeporter Topaz",
+    "icon": "ore"
+  },
+  {
+    "name": "Pharr Yellowtail",
+    "icon": "fish"
+  },
+  {
+    "name": "Gravibiscus",
+    "icon": "herb"
+  },
+  {
+    "name": "Celeb Cicada",
+    "icon": "insect"
+  },
+  {
+    "name": "Dengeki 2G Tckt",
+    "icon": "ticket"
+  },
+  {
+    "name": "Famitsu Ticket",
+    "icon": "ticket"
+  },
+  {
+    "name": "Amezari Carapace",
+    "icon": "carapaceon-shell"
+  },
+  {
+    "name": "Famitsu Invoice",
+    "icon": "ticket"
+  },
+  {
+    "name": "Magazine Ticket",
+    "icon": "ticket"
+  },
+  {
+    "name": "FamitsuCustomTkt",
+    "icon": "ticket"
+  },
+  {
+    "name": "Dengeki Ticket",
+    "icon": "ticket"
+  },
+  {
+    "name": "Amezari Shell",
+    "icon": "carapaceon-shell"
+  },
+  {
+    "name": "Dengeki G Ticket",
+    "icon": "ticket"
+  },
+  {
+    "name": "Pirate J Tckt G",
+    "icon": "ticket"
+  },
+  {
+    "name": "Polytan Bomb",
+    "icon": "bomb"
+  },
+  {
+    "name": "JUMP Barrel Bomb",
+    "icon": "bomb"
+  },
+  {
+    "name": "Famitsu PT Tckt",
+    "icon": "ticket"
+  },
+  {
+    "name": "Dengeki Maoh Tkt",
+    "icon": "ticket"
+  },
+  {
+    "name": "Pirate J Ticket",
+    "icon": "ticket"
+  }
+]

@@ -12,20 +12,40 @@ const App = () => {
       element: <Locations />
     },
     {
-      path: '/echolounge',
+      path: '/areas/1',
       element: <LocationEvents index={1} />
     },
     {
-      path: '/houseofblues',
+      path: '/areas/2',
       element: <LocationEvents index={2} />
     },
     {
-      path: '/pavilion',
+      path: '/areas/3',
       element: <LocationEvents index={3} />
     },
     {
-      path: '/americanairlines',
+      path: '/areas/4',
       element: <LocationEvents index={4} />
+    },
+    {
+      path: '/areas/5',
+      element: <LocationEvents index={5} />
+    },
+    {
+      path: '/areas/6',
+      element: <LocationEvents index={6} />
+    },
+    {
+      path: '/areas/7',
+      element: <LocationEvents index={7} />
+    },
+    {
+      path: '/areas/8',
+      element: <LocationEvents index={8} />
+    },
+    {
+      path: '/areas/9',
+      element: <LocationEvents index={9} />
     },
     {
       path: '/events',
@@ -34,20 +54,20 @@ const App = () => {
   ])
 
   return (
-    <div className='app'>
-
-      <header className='main-header'>
-        <h1>UnityGrid Plaza</h1>
-
-        <div className='header-buttons'>
-          <Link to='/' role='button'>Home</Link>
-          <Link to='/events' role='button'>Events</Link>
-        </div>
-      </header>
-
+    <div className="app">
       <main>
         {element}
       </main>
+
+      <header className="main-header">
+        <h1>Monster Hunter Freedom Unite Snowy Mountain Gathering Spots</h1>
+        <h3>Source: https://github.com/Kolyn090/mhfu-db</h3>
+
+        <div className="header-buttons">
+          <Link to="/" role="button">Map</Link>
+          <Link to="/events" role="button">Spots</Link>
+        </div>
+      </header>
     </div>
   )
 }
