@@ -1,9 +1,9 @@
 import React, { useState, useEffect } from 'react'
-import LocationsAPI from '../services/LocationsAPI'
+import AreasAPI from '../services/AreasAPI'
 import mtn from '../assets/mtn.png'
-import '../css/Locations.css'
+import '../css/Areas.css'
 
-const Locations = () => {
+const Areas = () => {
     const [gatheringSpots, setGatheringSpots] = useState([])
     const [hoveredArea, setHoveredArea] = useState(null)
     const [labelPosition, setLabelPosition] = useState({ x: 0, y: 0 })
@@ -11,7 +11,7 @@ const Locations = () => {
     useEffect(() => {
         const fetchGatheringSpots = async () => {
             try {
-                const data = await LocationsAPI.getAllLocations()
+                const data = await AreasAPI.getAllAreas()
                 setGatheringSpots(data)
             }
             catch (error) {
@@ -41,7 +41,7 @@ const Locations = () => {
     }
 
     return (
-        <div className='available-locations'>
+        <div className='available-areas'>
             <svg 
                 version="1.1" 
                 id="Layer_1" 
@@ -189,4 +189,4 @@ const Locations = () => {
     )
 }
 
-export default Locations
+export default Areas

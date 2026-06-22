@@ -1,31 +1,31 @@
-.location-gatheringSpots {
+.area-gatheringSpots {
     width: 100%;
     display: flex;
     flex-direction: column;
     flex-wrap: no-wrap;
 }
 
-.location-gatheringSpots header {
+.area-gatheringSpots header {
     background-color: var(--main-color);
     display: grid;
     grid-template-columns: 1fr 2fr;
     column-gap: 10px;
 }
 
-.location-image img {
+.area-image img {
     width: 300px;
     height: auto;
     border: 1px solid white;
     margin-left: 20px;
 }
 
-.location-gatheringSpots header p {
+.area-gatheringSpots header p {
     color: white;
     font-size: 0.8em;
     margin-bottom: 0px;
 }
 
-.location-gatheringSpots main {
+.area-gatheringSpots main {
     text-align: center;
     padding: 30px;
     margin: 30px;
@@ -34,6 +34,6 @@
     flex-wrap: wrap;
 }
 
-.location-gatheringSpots main i {
+.area-gatheringSpots main i {
     margin-right: 10px;
 }
