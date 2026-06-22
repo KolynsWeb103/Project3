@@ -3,6 +3,43 @@ import GatheringSpot from '../components/GatheringSpot'
 import AreasAPI from '../services/AreasAPI'
 import '../css/AreaGatheringSpots.css'
 
+const conditionOrder = {
+    'low-rank': 1,
+    'high-rank': 2,
+    'g-rank': 3,
+    'training': 4,
+    'treasure': 5
+}
+
+const groupSpotsByAreaAndPosition = (spots) => {
+    const grouped = {}
+
+    spots.forEach((spot) => {
+        const key = `${spot.area}-${spot.position}`
+
+        if (!grouped[key]) {
+            grouped[key] = {
+                area: spot.area,
+                position: spot.position,
+                type: spot.type,
+                spots: []
+            }
+        }
+
+        grouped[key].spots.push(spot)
+    })
+
+    return Object.values(grouped).map((group) => ({
+        ...group,
+        spots: group.spots.sort((a, b) => {
+            const aOrder = conditionOrder[a.condition?.toLowerCase()] ?? 999
+            const bOrder = conditionOrder[b.condition?.toLowerCase()] ?? 999
+
+            return aOrder - bOrder
+        })
+    }))
+}
+
 const AreaGatheringSpots = ({ area }) => {
     const [gatheringSpots, setGatheringSpots] = useState([])
 
@@ -10,6 +47,7 @@ const AreaGatheringSpots = ({ area }) => {
         const fetchGatheringSpots = async () => {
             try {
                 const data = await AreasAPI.getAllAreas()
+
                 if (area === null) {
                     setGatheringSpots(data)
                 } else {
@@ -27,6 +65,8 @@ const AreaGatheringSpots = ({ area }) => {
 
         fetchGatheringSpots()
     }, [area])
+
+    const groupedSpots = groupSpotsByAreaAndPosition(gatheringSpots)
 
     return (
         <div className='area-gathering-spots'>
@@ -48,14 +88,13 @@ const AreaGatheringSpots = ({ area }) => {
 
             <main className="gathering-spots-list">
                 {
-                    gatheringSpots.length > 0 ? gatheringSpots.map((gatheringSpot) =>
+                    groupedSpots.length > 0 ? groupedSpots.map((group) =>
                         <GatheringSpot
-                            key={gatheringSpot.id}
-                            area={gatheringSpot.area}
-                            position={gatheringSpot.position}
-                            type={gatheringSpot.type}
-                            condition={gatheringSpot.condition}
-                            materials={gatheringSpot.materials}
+                            key={`${group.area}-${group.position}`}
+                            area={group.area}
+                            position={group.position}
+                            type={group.type}
+                            spots={group.spots}
                         />
                     ) : (
                         <h2 className="empty-message">No gathering spots found in this area!!</h2>

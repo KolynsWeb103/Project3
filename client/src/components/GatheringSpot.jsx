@@ -1,4 +1,4 @@
-import React from 'react'
+import React, { useState } from 'react'
 import '../css/GatheringSpot.css'
 import item2icon from '../assets/item2icon.json'
 
@@ -12,9 +12,13 @@ const itemIconMap = Object.fromEntries(
 )
 
 const GatheringSpot = (props) => {
-  const materials = Array.isArray(props.materials)
-    ? props.materials
-    : props.materials?.split(',').map(material => material.trim()) || []
+  const [selectedIndex, setSelectedIndex] = useState(0)
+
+  const selectedSpot = props.spots[selectedIndex]
+
+  const materials = Array.isArray(selectedSpot.materials)
+    ? selectedSpot.materials
+    : selectedSpot.materials?.split(',').map(material => material.trim()) || []
 
   const getIconImage = (material) => {
     const iconName = itemIconMap[material]
@@ -24,6 +28,13 @@ const GatheringSpot = (props) => {
     }
 
     return iconImages[`../assets/icons/${iconName}.png`]
+  }
+
+  const handleConditionClick = () => {
+    setSelectedIndex((prevIndex) => {
+      const nextIndex = prevIndex + 1
+      return nextIndex >= props.spots.length ? 0 : nextIndex
+    })
   }
 
   return (
@@ -41,7 +52,14 @@ const GatheringSpot = (props) => {
           </p>
 
           <p>
-            <strong>Condition:</strong> {props.condition}
+            <strong>Condition:</strong>{' '}
+            <button
+              className='condition-button'
+              onClick={handleConditionClick}
+              type='button'
+            >
+              {selectedSpot.condition}
+            </button>
           </p>
 
           <div className='materials'>
@@ -69,6 +87,12 @@ const GatheringSpot = (props) => {
               })}
             </div>
           </div>
+
+          {props.spots.length > 1 && (
+            <p className='condition-hint'>
+              Click condition to switch
+            </p>
+          )}
         </div>
       </div>
     </article>
