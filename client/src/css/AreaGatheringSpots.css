@@ -1,0 +1,72 @@
+.area-gathering-spots {
+    width: 100%;
+    min-height: 100vh;
+    padding: 2rem;
+}
+
+.area-gathering-spots header {
+    margin-bottom: 2rem;
+}
+
+.area-info {
+    text-align: center;
+}
+
+.area-info h2 {
+    margin-bottom: 0.5rem;
+    font-size: 2.5rem;
+}
+
+.area-info p {
+    margin: 0;
+    opacity: 0.8;
+}
+
+.gathering-spots-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 1.5rem;
+    align-items: stretch;
+}
+
+.gathering-spots-list {
+    display: grid !important;
+    grid-template-columns: repeat(2, 350px);
+    gap: 24px;
+    justify-content: center;
+    align-items: start;
+    width: 100%;
+}
+
+@media (max-width: 800px) {
+    .gathering-spots-list {
+        grid-template-columns: 350px;
+    }
+}
+
+.empty-message {
+    text-align: center;
+}
+
+.area-gathering-spots header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 24px;
+    flex-wrap: wrap;
+}
+
+.area-filter {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    color: white;
+}
+
+.area-filter label {
+    font-weight: bold;
+}
+
+.area-filter select {
+    width: 180px;
+}

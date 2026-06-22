@@ -1,16 +1,16 @@
-const getAllLocations = async () => {
+const getAllAreas = async () => {
   const response = await fetch('/gatheringSpots')
   const data = await response.json()
   return data
 }
 
-const getLocationById = async (id) => {
+const getAreaById = async (id) => {
   const response = await fetch(`/gatheringSpots/${id}`)
   const data = await response.json()
   return data
 }
 
 export default {
-  getAllLocations,
-  getLocationById
+  getAllAreas,
+  getAreaById
 }

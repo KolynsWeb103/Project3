@@ -1,9 +1,10 @@
 import React, { useState, useEffect } from 'react'
-import LocationsAPI from '../services/LocationsAPI'
+import { Link } from 'react-router-dom'
+import AreasAPI from '../services/AreasAPI'
 import mtn from '../assets/mtn.png'
-import '../css/Locations.css'
+import '../css/Areas.css'
 
-const Locations = () => {
+const Areas = () => {
     const [gatheringSpots, setGatheringSpots] = useState([])
     const [hoveredArea, setHoveredArea] = useState(null)
     const [labelPosition, setLabelPosition] = useState({ x: 0, y: 0 })
@@ -11,7 +12,7 @@ const Locations = () => {
     useEffect(() => {
         const fetchGatheringSpots = async () => {
             try {
-                const data = await LocationsAPI.getAllLocations()
+                const data = await AreasAPI.getAllAreas()
                 setGatheringSpots(data)
             }
             catch (error) {
@@ -23,7 +24,9 @@ const Locations = () => {
     }, [])
 
     const getAreaLabel = (areaNumber) => {
-        const spotsInArea = gatheringSpots.filter(spot => spot.area === areaNumber)
+        const spotsInArea = gatheringSpots.filter(
+            spot => Number(spot.area) === Number(areaNumber)
+        )
         const uniquePositionCount = new Set(
             spotsInArea.map(spot => spot.position)
         ).size
@@ -41,7 +44,7 @@ const Locations = () => {
     }
 
     return (
-        <div className='available-locations'>
+        <div className='available-areas'>
             <svg 
                 version="1.1" 
                 id="Layer_1" 
@@ -95,7 +98,7 @@ const Locations = () => {
                     </g>
                 )}
 
-                <a href='/areas/1'>
+                <Link to='/areas/1'>
                     <polygon 
                         id="area1"
                         className="clickable-area"
@@ -103,9 +106,9 @@ const Locations = () => {
                         onMouseLeave={() => setHoveredArea(null)}
                         points="280,481 374,481 374,587 280,587" 
                     />
-                </a>
+                </Link>
 
-                <a href='/areas/2'>
+                <Link to='/areas/2'>
                     <polygon 
                         id="area2"
                         className="clickable-area"
@@ -113,9 +116,9 @@ const Locations = () => {
                         onMouseLeave={() => setHoveredArea(null)}
                         points="47,484 167,484 167,614 47,614" 
                     />
-                </a>
+                </Link>
 
-                <a href='/areas/3'>
+                <Link to='/areas/3'>
                     <polygon 
                         id="area3"
                         className="clickable-area"
@@ -123,9 +126,9 @@ const Locations = () => {
                         onMouseLeave={() => setHoveredArea(null)}
                         points="178,390 241,390 241,448 178,448" 
                     />
-                </a>
+                </Link>
 
-                <a href='/areas/4'>
+                <Link to='/areas/4'>
                     <polygon 
                         id="area4"
                         className="clickable-area"
@@ -133,9 +136,9 @@ const Locations = () => {
                         onMouseLeave={() => setHoveredArea(null)}
                         points="424,408 518,408 518,495 424,495"
                     />
-                </a>
+                </Link>
 
-                <a href='/areas/5'>
+                <Link to='/areas/5'>
                     <polygon 
                         id="area5"
                         className="clickable-area"
@@ -143,9 +146,9 @@ const Locations = () => {
                         onMouseLeave={() => setHoveredArea(null)}
                         points="273,297 353,297 353,399 273,399"
                     />
-                </a>
+                </Link>
 
-                <a href='/areas/6'>
+                <Link to='/areas/6'>
                     <polygon 
                         id="area6"
                         className="clickable-area"
@@ -153,9 +156,9 @@ const Locations = () => {
                         onMouseLeave={() => setHoveredArea(null)}
                         points="420,196 528,196 528,314 420,314"
                     />
-                </a>
+                </Link>
 
-                <a href='/areas/7'>
+                <Link to='/areas/7'>
                     <polygon 
                         id="area7"
                         className="clickable-area"
@@ -163,9 +166,9 @@ const Locations = () => {
                         onMouseLeave={() => setHoveredArea(null)}
                         points="150,163 229,163 229,290 150,290"
                     />
-                </a>
+                </Link>
 
-                <a href='/areas/8'>
+                <Link to='/areas/8'>
                     <polygon 
                         id="area8"
                         className="clickable-area"
@@ -173,9 +176,9 @@ const Locations = () => {
                         onMouseLeave={() => setHoveredArea(null)}
                         points="308,72 409,72 409,167 308,167"
                     />
-                </a>
+                </Link>
 
-                <a href='/areas/9'>
+                <Link to='/areas/9'>
                     <polygon 
                         id="area9"
                         className="clickable-area"
@@ -183,10 +186,10 @@ const Locations = () => {
                         onMouseLeave={() => setHoveredArea(null)}
                         points="178,593 224,593 224,633 178,633"
                     />
-                </a>
+                </Link>
             </svg>
         </div>
     )
 }
 
-export default Locations
+export default Areas
