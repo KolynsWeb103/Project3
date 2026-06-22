@@ -1,8 +1,8 @@
 import React from 'react'
 import { useRoutes, Link } from 'react-router-dom'
 import Locations from './pages/Locations'
-import LocationEvents from './pages/LocationEvents'
-import Events from './pages/Events'
+import LocationGatheringSpots from './pages/LocationGatheringSpots'
+import GatheringSpots from './pages/GatheringSpots'
 import './App.css'
 
 const App = () => {
@@ -13,43 +13,43 @@ const App = () => {
     },
     {
       path: '/areas/1',
-      element: <LocationEvents index={1} />
+      element: <LocationGatheringSpots index={1} />
     },
     {
       path: '/areas/2',
-      element: <LocationEvents index={2} />
+      element: <LocationGatheringSpots index={2} />
     },
     {
       path: '/areas/3',
-      element: <LocationEvents index={3} />
+      element: <LocationGatheringSpots index={3} />
     },
     {
       path: '/areas/4',
-      element: <LocationEvents index={4} />
+      element: <LocationGatheringSpots index={4} />
     },
     {
       path: '/areas/5',
-      element: <LocationEvents index={5} />
+      element: <LocationGatheringSpots index={5} />
     },
     {
       path: '/areas/6',
-      element: <LocationEvents index={6} />
+      element: <LocationGatheringSpots index={6} />
     },
     {
       path: '/areas/7',
-      element: <LocationEvents index={7} />
+      element: <LocationGatheringSpots index={7} />
     },
     {
       path: '/areas/8',
-      element: <LocationEvents index={8} />
+      element: <LocationGatheringSpots index={8} />
     },
     {
       path: '/areas/9',
-      element: <LocationEvents index={9} />
+      element: <LocationGatheringSpots index={9} />
     },
     {
-      path: '/events',
-      element: <Events />
+      path: '/gatheringSpots',
+      element: <GatheringSpots />
     }
   ])
 
@@ -65,7 +65,7 @@ const App = () => {
 
         <div className="header-buttons">
           <Link to="/" role="button">Map</Link>
-          <Link to="/events" role="button">Spots</Link>
+          <Link to="/gatheringSpots" role="button">Spots</Link>
         </div>
       </header>
     </div>

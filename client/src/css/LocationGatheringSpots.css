@@ -1,11 +1,11 @@
-.location-events {
+.location-gatheringSpots {
     width: 100%;
     display: flex;
     flex-direction: column;
     flex-wrap: no-wrap;
 }
 
-.location-events header {
+.location-gatheringSpots header {
     background-color: var(--main-color);
     display: grid;
     grid-template-columns: 1fr 2fr;
@@ -19,13 +19,13 @@
     margin-left: 20px;
 }
 
-.location-events header p {
+.location-gatheringSpots header p {
     color: white;
     font-size: 0.8em;
     margin-bottom: 0px;
 }
 
-.location-events main {
+.location-gatheringSpots main {
     text-align: center;
     padding: 30px;
     margin: 30px;
@@ -34,6 +34,6 @@
     flex-wrap: wrap;
 }
 
-.location-events main i {
+.location-gatheringSpots main i {
     margin-right: 10px;
 }
