@@ -12,40 +12,8 @@ const App = () => {
       element: <Areas />
     },
     {
-      path: '/areas/1',
-      element: <AreaGatheringSpots index={1} />
-    },
-    {
-      path: '/areas/2',
-      element: <AreaGatheringSpots index={2} />
-    },
-    {
-      path: '/areas/3',
-      element: <AreaGatheringSpots index={3} />
-    },
-    {
-      path: '/areas/4',
-      element: <AreaGatheringSpots index={4} />
-    },
-    {
-      path: '/areas/5',
-      element: <AreaGatheringSpots index={5} />
-    },
-    {
-      path: '/areas/6',
-      element: <AreaGatheringSpots index={6} />
-    },
-    {
-      path: '/areas/7',
-      element: <AreaGatheringSpots index={7} />
-    },
-    {
-      path: '/areas/8',
-      element: <AreaGatheringSpots index={8} />
-    },
-    {
-      path: '/areas/9',
-      element: <AreaGatheringSpots index={9} />
+      path: '/areas/:area',
+      element: <GatheringSpots />
     },
     {
       path: '/gatheringSpots',

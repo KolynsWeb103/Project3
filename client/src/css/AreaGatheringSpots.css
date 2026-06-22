@@ -1,39 +1,43 @@
-.area-gatheringSpots {
+.area-gathering-spots {
     width: 100%;
+    min-height: 100vh;
+    padding: 2rem;
+}
+
+.area-gathering-spots header {
+    margin-bottom: 2rem;
+}
+
+.area-info {
+    text-align: center;
+}
+
+.area-info h2 {
+    margin-bottom: 0.5rem;
+    font-size: 2.5rem;
+}
+
+.area-info p {
+    margin: 0;
+    opacity: 0.8;
+}
+
+.gathering-spots-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    gap: 1.5rem;
+    align-items: stretch;
+}
+
+.gathering-spots-list {
+    width: 100%;
+    max-width: 900px;
+    margin: 0 auto;
     display: flex;
     flex-direction: column;
-    flex-wrap: no-wrap;
+    gap: 1rem;
 }
 
-.area-gatheringSpots header {
-    background-color: var(--main-color);
-    display: grid;
-    grid-template-columns: 1fr 2fr;
-    column-gap: 10px;
-}
-
-.area-image img {
-    width: 300px;
-    height: auto;
-    border: 1px solid white;
-    margin-left: 20px;
-}
-
-.area-gatheringSpots header p {
-    color: white;
-    font-size: 0.8em;
-    margin-bottom: 0px;
-}
-
-.area-gatheringSpots main {
+.empty-message {
     text-align: center;
-    padding: 30px;
-    margin: 30px;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-}
-
-.area-gatheringSpots main i {
-    margin-right: 10px;
 }

@@ -1,8 +1,12 @@
+import { useParams } from 'react-router-dom'
+import AreaGatheringSpots from '../pages/AreaGatheringSpots'
+
 const GatheringSpots = () => {
+  const { area } = useParams()
+
   return (
     <div>
-      <h1>Spots</h1>
-      <p>Here are the gatheringSpots for this area.</p>
+      <AreaGatheringSpots area={area ? Number(area) : null} />
     </div>
   )
 }
