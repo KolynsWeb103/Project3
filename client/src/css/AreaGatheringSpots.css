@@ -41,3 +41,26 @@
 .empty-message {
     text-align: center;
 }
+
+.area-gathering-spots header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 24px;
+    flex-wrap: wrap;
+}
+
+.area-filter {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    color: white;
+}
+
+.area-filter label {
+    font-weight: bold;
+}
+
+.area-filter select {
+    width: 180px;
+}

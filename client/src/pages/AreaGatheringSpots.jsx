@@ -11,6 +11,12 @@ const conditionOrder = {
     'treasure': 5
 }
 
+const normalizeCondition = (condition) => {
+    return condition
+        ?.toLowerCase()
+        .replaceAll(' ', '-')
+}
+
 const groupSpotsByAreaAndPosition = (spots) => {
     const grouped = {}
 
@@ -32,8 +38,8 @@ const groupSpotsByAreaAndPosition = (spots) => {
     return Object.values(grouped).map((group) => ({
         ...group,
         spots: group.spots.sort((a, b) => {
-            const aOrder = conditionOrder[a.condition?.toLowerCase()] ?? 999
-            const bOrder = conditionOrder[b.condition?.toLowerCase()] ?? 999
+            const aOrder = conditionOrder[normalizeCondition(a.condition)] ?? 999
+            const bOrder = conditionOrder[normalizeCondition(b.condition)] ?? 999
 
             return aOrder - bOrder
         })
@@ -41,22 +47,14 @@ const groupSpotsByAreaAndPosition = (spots) => {
 }
 
 const AreaGatheringSpots = ({ area }) => {
-    const [gatheringSpots, setGatheringSpots] = useState([])
+    const [allGatheringSpots, setAllGatheringSpots] = useState([])
+    const [selectedArea, setSelectedArea] = useState('all')
 
     useEffect(() => {
         const fetchGatheringSpots = async () => {
             try {
                 const data = await AreasAPI.getAllAreas()
-
-                if (area === null) {
-                    setGatheringSpots(data)
-                } else {
-                    const spotsInArea = data.filter(
-                        spot => Number(spot.area) === Number(area)
-                    )
-
-                    setGatheringSpots(spotsInArea)
-                }
+                setAllGatheringSpots(data)
             }
             catch (error) {
                 console.error('Error fetching gathering spots:', error)
@@ -64,9 +62,22 @@ const AreaGatheringSpots = ({ area }) => {
         }
 
         fetchGatheringSpots()
-    }, [area])
+    }, [])
 
-    const groupedSpots = groupSpotsByAreaAndPosition(gatheringSpots)
+    const areas = [...new Set(allGatheringSpots.map(spot => spot.area))]
+        .sort((a, b) => Number(a) - Number(b))
+
+    const visibleSpots = area !== null
+        ? allGatheringSpots.filter(
+            spot => Number(spot.area) === Number(area)
+        )
+        : selectedArea === 'all'
+            ? allGatheringSpots
+            : allGatheringSpots.filter(
+                spot => Number(spot.area) === Number(selectedArea)
+            )
+
+    const groupedSpots = groupSpotsByAreaAndPosition(visibleSpots)
 
     return (
         <div className='area-gathering-spots'>
@@ -78,12 +89,37 @@ const AreaGatheringSpots = ({ area }) => {
                             ? 'Hidden Area'
                             : `Area ${area}`}
                     </h2>
+
                     <p>
                         {area === null
                             ? 'Gathering spots found across all areas.'
                             : 'Gathering spots found in this area.'}
                     </p>
                 </div>
+
+                {area === null && (
+                    <div className='area-filter'>
+                        <label htmlFor='area-filter'>
+                            Filter by Location:
+                        </label>
+
+                        <select
+                            id='area-filter'
+                            value={selectedArea}
+                            onChange={(event) => setSelectedArea(event.target.value)}
+                        >
+                            <option value='all'>All Areas</option>
+
+                            {areas.map((areaNumber) => (
+                                <option key={areaNumber} value={areaNumber}>
+                                    {Number(areaNumber) === 9
+                                        ? 'Hidden Area'
+                                        : `Area ${areaNumber}`}
+                                </option>
+                            ))}
+                        </select>
+                    </div>
+                )}
             </header>
 
             <main className="gathering-spots-list">
